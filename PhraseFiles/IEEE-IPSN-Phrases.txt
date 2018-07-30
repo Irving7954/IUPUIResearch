@@ -1,0 +1,1487 @@
+1486
+wireless sensor networks: {2004: 75, 2005: 111, 2006: 106, 2007: 130, 2009: 107, 2012: 54, 2013: 67, 2014: 37, 2017: 17, 2008: 95, 2011: 91, 2016: 58}
+sensor networks: {2004: 42, 2007: 52, 2009: 34, 2011: 22, 2014: 7, 2017: 5, 2005: 27, 2006: 47, 2008: 22, 2012: 7, 2013: 10, 2016: 3}
+wireless sensor network: {2005: 26, 2006: 18, 2009: 21, 2004: 6, 2007: 18, 2008: 22, 2011: 11, 2012: 8, 2013: 14, 2014: 3, 2017: 2}
+sensor network: {2009: 17, 2011: 11, 2014: 6, 2004: 13, 2005: 34, 2006: 29, 2007: 16, 2008: 13, 2012: 4, 2013: 3, 2016: 1, 2017: 2}
+sensor phenomena and characterization: {2007: 17, 2008: 16, 2009: 16, 2004: 24, 2005: 20, 2006: 18, 2011: 1, 2012: 1, 2016: 1}
+energy consumption: {2004: 11, 2005: 17, 2006: 15, 2007: 16, 2008: 7, 2009: 14, 2011: 1, 2012: 2, 2013: 4, 2014: 5, 2016: 10, 2017: 7}
+sensor systems: {2004: 11, 2006: 13, 2007: 12, 2005: 14, 2008: 18, 2009: 17, 2012: 2, 2014: 1, 2016: 3, 2017: 1}
+wireless communication: {2017: 8, 2004: 3, 2005: 3, 2006: 7, 2007: 8, 2008: 2, 2009: 4, 2011: 13, 2012: 8, 2013: 6, 2014: 10, 2016: 18}
+computer networks: {2004: 14, 2006: 15, 2005: 13, 2007: 23, 2008: 5, 2009: 10, 2016: 1}
+sensor nodes: {2009: 7, 2004: 18, 2005: 6, 2006: 11, 2007: 11, 2008: 9, 2011: 8, 2012: 1, 2013: 4, 2014: 2, 2016: 2, 2017: 1}
+sensor fusion: {2004: 14, 2005: 19, 2006: 4, 2007: 13, 2008: 9, 2011: 4, 2012: 1, 2013: 7, 2014: 1, 2017: 6}
+energy efficiency: {2006: 18, 2004: 10, 2005: 3, 2007: 10, 2008: 8, 2009: 10, 2011: 2, 2012: 4, 2013: 1, 2014: 1, 2016: 5, 2017: 6}
+algorithm design and analysis: {2004: 11, 2005: 4, 2006: 8, 2007: 13, 2008: 4, 2009: 6, 2011: 2, 2012: 4, 2013: 3, 2016: 1}
+intelligent networks: {2004: 16, 2005: 20, 2006: 13, 2007: 3, 2009: 1}
+application software: {2004: 2, 2005: 11, 2006: 9, 2007: 16, 2008: 7, 2009: 8}
+computer science: {2004: 8, 2005: 7, 2006: 4, 2007: 12, 2008: 7, 2009: 10, 2012: 1, 2016: 2, 2017: 1}
+network topology: {2011: 2, 2004: 10, 2005: 8, 2006: 9, 2007: 3, 2008: 1, 2009: 5, 2012: 5, 2013: 5, 2014: 1, 2016: 2}
+temperature sensors: {2008: 4, 2012: 7, 2004: 4, 2005: 3, 2006: 4, 2007: 2, 2009: 4, 2011: 6, 2013: 7, 2014: 5, 2016: 3}
+mobile computing: {2005: 5, 2006: 1, 2007: 1, 2008: 6, 2009: 3, 2011: 3, 2012: 3, 2013: 4, 2014: 8, 2016: 6, 2017: 9}
+target tracking: {2005: 12, 2004: 8, 2006: 12, 2007: 4, 2009: 1, 2011: 4, 2013: 3, 2014: 1, 2017: 1}
+routing protocols: {2004: 5, 2005: 4, 2006: 4, 2007: 4, 2008: 3, 2009: 7, 2011: 4, 2012: 9, 2014: 1, 2016: 5}
+real-time systems: {2004: 1, 2005: 6, 2007: 2, 2008: 4, 2009: 3, 2011: 4, 2012: 4, 2013: 8, 2014: 4, 2016: 6, 2017: 2}
+smart phones: {2009: 1, 2011: 2, 2012: 6, 2013: 10, 2014: 16, 2016: 3, 2017: 5}
+information processing: {2004: 1, 2005: 1, 2007: 2, 2008: 23, 2017: 15}
+intelligent sensors: {2005: 7, 2006: 8, 2007: 9, 2008: 4, 2009: 5, 2012: 3, 2013: 3, 2014: 1, 2016: 1, 2017: 1}
+power consumption: {2004: 2, 2005: 10, 2006: 1, 2007: 7, 2009: 5, 2011: 9, 2013: 3, 2016: 2, 2017: 2}
+global positioning system: {2014: 7, 2004: 2, 2005: 1, 2006: 2, 2007: 1, 2008: 5, 2009: 1, 2011: 2, 2012: 4, 2013: 4, 2016: 7, 2017: 4}
+embedded systems: {2004: 1, 2005: 4, 2006: 3, 2008: 4, 2009: 2, 2011: 3, 2012: 2, 2013: 8, 2014: 3, 2016: 7, 2017: 3}
+telecommunication network reliability: {2011: 6, 2004: 4, 2005: 5, 2006: 1, 2007: 2, 2008: 5, 2009: 8, 2012: 2, 2013: 1, 2016: 4, 2017: 1}
+data collection: {2004: 3, 2005: 3, 2006: 5, 2007: 3, 2009: 5, 2011: 4, 2012: 5, 2013: 2, 2014: 2, 2016: 5, 2017: 2}
+distributed algorithms: {2004: 14, 2005: 7, 2006: 2, 2007: 5, 2008: 2, 2009: 7, 2011: 1, 2013: 1}
+distributed computing: {2004: 6, 2005: 7, 2006: 5, 2007: 10, 2008: 1, 2009: 8}
+sampling methods: {2004: 4, 2005: 11, 2006: 6, 2007: 8, 2008: 1, 2009: 5}
+distributed sensors: {2004: 9, 2005: 8, 2006: 5, 2007: 2, 2008: 5, 2009: 1, 2012: 3}
+computer architecture: {2004: 1, 2005: 3, 2006: 3, 2007: 5, 2008: 3, 2009: 1, 2011: 2, 2012: 1, 2013: 3, 2014: 4, 2016: 7}
+mobile communication: {2004: 1, 2005: 2, 2006: 1, 2007: 2, 2008: 2, 2009: 1, 2011: 6, 2012: 4, 2013: 3, 2014: 2, 2016: 3, 2017: 6}
+image sensors: {2004: 1, 2006: 7, 2007: 3, 2008: 5, 2009: 4, 2012: 1, 2013: 2, 2014: 2, 2016: 3, 2017: 5}
+telecommunication network routing: {2009: 5, 2004: 3, 2005: 8, 2006: 4, 2007: 5, 2008: 2, 2011: 2, 2012: 1, 2014: 1}
+experimental results: {2005: 4, 2006: 2, 2007: 7, 2008: 2, 2009: 2, 2011: 3, 2012: 3, 2014: 1, 2016: 5, 2017: 2}
+sensor data: {2006: 5, 2008: 3, 2004: 4, 2005: 1, 2009: 4, 2011: 1, 2012: 1, 2013: 4, 2014: 1, 2016: 2, 2017: 4}
+computational modeling: {2004: 3, 2005: 2, 2006: 5, 2007: 4, 2008: 1, 2009: 4, 2011: 1, 2012: 2, 2013: 2, 2014: 1, 2016: 4, 2017: 1}
+wireless networks: {2004: 2, 2006: 2, 2007: 3, 2008: 5, 2009: 8, 2011: 5, 2012: 2, 2016: 3}
+telecommunication traffic: {2009: 4, 2004: 5, 2005: 4, 2006: 3, 2007: 1, 2008: 9, 2012: 1, 2016: 1, 2017: 1}
+access protocols: {2004: 2, 2005: 1, 2006: 3, 2007: 3, 2008: 8, 2009: 2, 2011: 1, 2012: 3, 2013: 1, 2014: 4, 2016: 1}
+energy conservation: {2004: 8, 2005: 7, 2006: 1, 2007: 2, 2011: 1, 2012: 2, 2013: 4, 2016: 1, 2017: 3}
+educational institutions: {2006: 2, 2009: 1, 2012: 6, 2013: 9, 2014: 10}
+ad hoc networks: {2004: 15, 2005: 3, 2006: 3, 2007: 1, 2008: 1, 2009: 1, 2011: 1, 2016: 1, 2017: 1}
+mobile devices: {2005: 2, 2011: 1, 2013: 10, 2014: 6, 2016: 2, 2017: 6}
+sensor systems and applications: {2004: 3, 2006: 6, 2007: 10, 2008: 5, 2009: 2}
+acoustic sensors: {2005: 7, 2004: 3, 2006: 1, 2007: 6, 2008: 3, 2009: 3, 2012: 1, 2017: 2}
+base stations: {2012: 1, 2013: 3, 2004: 4, 2005: 3, 2006: 2, 2008: 1, 2009: 7, 2011: 5}
+environmental monitoring: {2005: 2, 2006: 1, 2007: 2, 2008: 3, 2009: 1, 2011: 1, 2012: 6, 2013: 6, 2014: 2, 2016: 2}
+feature extraction: {2011: 3, 2012: 2, 2013: 5, 2014: 5, 2016: 4, 2017: 7}
+event detection: {2005: 5, 2004: 1, 2006: 2, 2007: 5, 2008: 2, 2009: 5, 2013: 4, 2016: 1}
+simulation results: {2009: 2, 2004: 3, 2005: 6, 2006: 6, 2007: 3, 2008: 1, 2011: 1, 2012: 1, 2016: 1, 2017: 1}
+sensor node: {2004: 3, 2005: 2, 2006: 2, 2007: 1, 2008: 5, 2009: 2, 2011: 5, 2013: 2, 2014: 1, 2016: 2}
+fusion center: {2004: 9, 2005: 1, 2006: 7, 2008: 4, 2011: 2, 2016: 2}
+query processing: {2004: 5, 2005: 2, 2006: 2, 2007: 2, 2009: 10, 2012: 1, 2013: 1, 2017: 2}
+radio frequency: {2005: 2, 2006: 2, 2007: 1, 2008: 1, 2009: 3, 2011: 1, 2012: 2, 2013: 2, 2014: 2, 2016: 7, 2017: 2}
+mobile handsets: {2007: 2, 2009: 3, 2011: 2, 2012: 2, 2013: 7, 2014: 4, 2016: 3, 2017: 2}
+sensor placement: {2008: 1, 2004: 1, 2005: 1, 2006: 1, 2009: 2, 2011: 7, 2012: 2, 2013: 5, 2014: 2, 2016: 2}
+signal processing: {2004: 3, 2005: 1, 2006: 5, 2007: 3, 2009: 3, 2011: 1, 2012: 1, 2016: 2, 2017: 5}
+wide range: {2004: 2, 2005: 2, 2006: 1, 2007: 4, 2008: 3, 2009: 2, 2011: 2, 2013: 2, 2014: 1, 2016: 3, 2017: 1}
+telecommunication network topology: {2005: 8, 2006: 5, 2008: 2, 2009: 3, 2011: 1, 2012: 2, 2013: 1, 2016: 1}
+wireless channels: {2006: 4, 2007: 1, 2008: 6, 2009: 4, 2011: 4, 2012: 1, 2013: 1, 2014: 1, 2016: 1}
+signal processing algorithms: {2006: 4, 2007: 8, 2004: 1, 2008: 2, 2012: 1, 2013: 1, 2016: 1, 2017: 4}
+telecommunication computing: {2016: 1, 2004: 2, 2005: 2, 2006: 3, 2008: 6, 2009: 2, 2011: 4, 2012: 1, 2017: 1}
+internet of things: {2017: 9, 2013: 1, 2014: 3, 2016: 9}
+data acquisition: {2004: 1, 2005: 1, 2006: 2, 2007: 1, 2008: 7, 2009: 3, 2012: 2, 2013: 3, 2014: 1, 2016: 1}
+operating systems: {2005: 2, 2007: 8, 2008: 4, 2009: 5, 2011: 1, 2014: 2}
+learning (artificial intelligence): {2004: 1, 2005: 1, 2006: 1, 2009: 1, 2011: 1, 2012: 2, 2013: 2, 2014: 2, 2016: 4, 2017: 6}
+data analysis: {2005: 3, 2006: 3, 2007: 1, 2008: 1, 2011: 5, 2012: 2, 2013: 2, 2014: 2, 2016: 2}
+spread spectrum communication: {2004: 3, 2005: 4, 2006: 3, 2007: 1, 2008: 3, 2009: 3, 2012: 1, 2014: 1, 2017: 1}
+distance measurement: {2004: 1, 2008: 1, 2009: 1, 2011: 4, 2012: 2, 2013: 3, 2014: 2, 2016: 1, 2017: 5}
+telecommunication security: {2004: 1, 2005: 5, 2006: 4, 2007: 1, 2008: 3, 2009: 4, 2016: 1, 2017: 1}
+maximum likelihood estimation: {2004: 3, 2005: 2, 2006: 5, 2007: 2, 2012: 4, 2013: 1, 2014: 2, 2016: 1}
+condition monitoring: {2005: 3, 2006: 1, 2007: 6, 2008: 4, 2009: 4, 2011: 1, 2016: 1}
+data compression: {2006: 5, 2004: 6, 2005: 1, 2007: 3, 2009: 3, 2012: 1}
+approximation algorithms: {2008: 2, 2009: 5, 2004: 1, 2005: 2, 2006: 4, 2007: 1, 2012: 1, 2017: 3}
+base station: {2012: 3, 2004: 5, 2005: 5, 2006: 1, 2007: 1, 2009: 2, 2014: 2}
+wireless sensor: {2004: 2, 2005: 1, 2006: 1, 2007: 2, 2009: 2, 2011: 2, 2012: 1, 2013: 3, 2016: 3, 2017: 2}
+energy harvesting: {2005: 1, 2007: 1, 2012: 6, 2014: 1, 2016: 7, 2017: 3}
+body sensor networks: {2007: 2, 2008: 3, 2011: 3, 2012: 3, 2013: 5, 2014: 1, 2016: 2}
+large-scale systems: {2005: 4, 2004: 2, 2006: 2, 2007: 3, 2008: 1, 2009: 5, 2012: 1}
+computational complexity: {2008: 1, 2004: 2, 2005: 2, 2006: 1, 2007: 4, 2009: 2, 2011: 2, 2012: 2, 2017: 2}
+cost function: {2004: 3, 2005: 5, 2006: 3, 2007: 1, 2008: 2, 2009: 1, 2012: 3}
+object detection: {2005: 1, 2006: 2, 2007: 4, 2008: 3, 2009: 2, 2012: 3, 2014: 1, 2016: 2}
+control systems: {2005: 1, 2006: 1, 2007: 3, 2008: 2, 2009: 6, 2011: 4, 2017: 1}
+radio links: {2005: 2, 2006: 2, 2007: 2, 2008: 3, 2011: 4, 2012: 1, 2013: 3, 2016: 1}
+robot sensing systems: {2012: 4, 2013: 2, 2005: 2, 2011: 1, 2014: 1, 2016: 2, 2017: 5}
+information retrieval: {2004: 1, 2005: 1, 2006: 10, 2008: 2, 2009: 2, 2011: 1}
+radio networks: {2004: 1, 2008: 3, 2009: 2, 2011: 4, 2012: 3, 2014: 2, 2016: 1, 2017: 1}
+sensor network applications: {2006: 5, 2007: 4, 2008: 5, 2009: 1, 2011: 1, 2014: 1}
+time synchronization: {2004: 2, 2005: 1, 2008: 3, 2009: 3, 2011: 6, 2012: 1}
+mobile radio: {2013: 1, 2016: 1, 2004: 1, 2005: 2, 2006: 2, 2007: 2, 2008: 3, 2009: 3, 2012: 1}
+energy savings: {2004: 5, 2006: 2, 2008: 3, 2011: 2, 2013: 1, 2014: 2, 2016: 1}
+analytical models: {2004: 4, 2005: 2, 2007: 3, 2008: 3, 2009: 1, 2011: 1, 2014: 1, 2016: 1}
+performance analysis: {2004: 2, 2005: 3, 2006: 3, 2007: 4, 2008: 1, 2009: 2, 2013: 1}
+array signal processing: {2004: 4, 2005: 4, 2006: 1, 2007: 1, 2012: 3, 2013: 3}
+wireless network: {2004: 1, 2006: 2, 2008: 1, 2009: 2, 2012: 8, 2013: 1, 2016: 1}
+data models: {2005: 1, 2009: 1, 2011: 6, 2012: 3, 2013: 1, 2014: 2, 2016: 1, 2017: 1}
+performance evaluation: {2005: 1, 2006: 3, 2007: 1, 2008: 2, 2012: 1, 2014: 2, 2016: 4, 2017: 2}
+data mining: {2006: 3, 2007: 2, 2008: 3, 2009: 1, 2011: 4, 2013: 1, 2014: 1}
+graph theory: {2004: 2, 2005: 6, 2006: 3, 2008: 1, 2009: 1, 2012: 1, 2016: 1}
+conference proceedings: {2004: 1, 2005: 2, 2006: 2, 2008: 2, 2009: 1, 2011: 1, 2014: 2, 2016: 2, 2017: 2}
+wearable sensors: {2005: 2, 2006: 2, 2007: 2, 2008: 1, 2011: 3, 2012: 1, 2014: 1, 2017: 3}
+radio transmitters: {2005: 2, 2006: 3, 2009: 1, 2011: 2, 2012: 2, 2014: 1, 2016: 3, 2017: 1}
+patient monitoring: {2007: 2, 2008: 1, 2009: 4, 2011: 1, 2012: 2, 2013: 1, 2014: 1, 2016: 1, 2017: 2}
+user interfaces: {2005: 4, 2007: 2, 2009: 1, 2013: 1, 2014: 2, 2016: 4}
+temperature measurement: {2012: 2, 2011: 2, 2013: 2, 2014: 5, 2016: 3}
+time division multiple access: {2004: 5, 2005: 2, 2007: 2, 2013: 1, 2014: 2, 2017: 2}
+wireless sensors: {2004: 3, 2006: 2, 2007: 3, 2009: 2, 2011: 2, 2016: 2}
+node failures: {2004: 3, 2005: 3, 2006: 2, 2009: 1, 2012: 1, 2016: 4}
+sensor arrays: {2004: 3, 2005: 1, 2006: 2, 2007: 7, 2013: 1}
+real time systems: {2004: 1, 2006: 1, 2007: 2, 2008: 6, 2011: 4}
+data fusion: {2004: 2, 2008: 1, 2011: 3, 2012: 1, 2013: 6, 2014: 1}
+media access protocol: {2004: 1, 2005: 1, 2008: 6, 2011: 1, 2012: 2, 2014: 1, 2016: 2}
+embedded system: {2005: 7, 2006: 1, 2007: 2, 2009: 1, 2012: 1, 2013: 1, 2014: 1}
+predictive models: {2005: 1, 2006: 2, 2008: 3, 2009: 3, 2011: 2, 2012: 1, 2013: 1, 2014: 1}
+object tracking: {2005: 1, 2007: 1, 2011: 1, 2012: 3, 2013: 3, 2014: 2, 2016: 1, 2017: 2}
+wireless application protocol: {2006: 2, 2007: 4, 2008: 4, 2009: 4}
+mobile phones: {2007: 3, 2009: 1, 2011: 2, 2012: 3, 2013: 1, 2014: 4}
+packet loss: {2009: 7, 2011: 2, 2012: 3, 2016: 1, 2017: 1}
+# x201d: {2011: 5, 2012: 2, 2013: 2, 2014: 3, 2017: 2}
+wearable devices: {2016: 14}
+indoor radio: {2016: 3, 2008: 2, 2011: 1, 2012: 2, 2013: 1, 2014: 4}
+software architecture: {2004: 2, 2005: 1, 2006: 3, 2007: 1, 2008: 2, 2011: 2, 2014: 1, 2016: 1}
+energy management: {2004: 1, 2005: 2, 2006: 3, 2007: 1, 2009: 6}
+data gathering: {2004: 3, 2005: 4, 2007: 2, 2008: 3, 2014: 1}
+communication system control: {2004: 2, 2005: 4, 2006: 2, 2007: 2, 2008: 1, 2009: 2}
+received signal strength: {2004: 1, 2005: 1, 2012: 1, 2013: 3, 2014: 3, 2016: 2, 2017: 2}
+distributed algorithm: {2004: 2, 2005: 1, 2006: 2, 2007: 2, 2008: 1, 2009: 5}
+current committee members: {2004: 1, 2005: 1, 2006: 1, 2008: 2, 2009: 1, 2011: 1, 2014: 1, 2016: 2, 2017: 3}
+mobile robots: {2005: 3, 2006: 1, 2008: 1, 2012: 3, 2013: 1, 2014: 2, 2017: 2}
+human factors: {2005: 1, 2006: 1, 2007: 4, 2009: 2, 2014: 5}
+ubiquitous computing: {2005: 3, 2007: 2, 2012: 2, 2013: 2, 2014: 2, 2017: 2}
+data structures: {2005: 1, 2007: 3, 2008: 2, 2009: 1, 2011: 3, 2012: 1, 2016: 1, 2017: 1}
+biomedical monitoring: {2005: 1, 2007: 1, 2008: 2, 2009: 1, 2011: 1, 2013: 1, 2014: 1, 2016: 4, 2017: 1}
+power measurement: {2007: 1, 2009: 2, 2011: 2, 2012: 1, 2013: 5, 2014: 1, 2016: 1}
+air pollution: {2007: 2, 2013: 2, 2014: 4, 2017: 5}
+light emitting diodes: {2007: 1, 2009: 1, 2013: 1, 2014: 6, 2016: 4}
+acoustic signal processing: {2005: 3, 2004: 1, 2006: 1, 2007: 2, 2008: 1, 2011: 1, 2012: 1, 2013: 1, 2017: 1}
+approximation theory: {2008: 1, 2004: 1, 2005: 4, 2006: 3, 2007: 1, 2017: 2}
+radio transceivers: {2011: 3, 2005: 1, 2008: 1, 2012: 2, 2013: 1, 2014: 2, 2016: 2}
+wireless channel: {2004: 2, 2007: 1, 2008: 2, 2011: 2, 2013: 2, 2014: 1, 2016: 2}
+large number: {2004: 1, 2005: 3, 2006: 1, 2007: 1, 2008: 2, 2011: 1, 2013: 3}
+signal sampling: {2004: 3, 2005: 1, 2006: 3, 2007: 2, 2009: 1, 2014: 1, 2017: 1}
+previous work: {2004: 3, 2007: 1, 2011: 1, 2012: 2, 2013: 3, 2016: 1, 2017: 1}
+distributed processing: {2004: 2, 2005: 1, 2006: 3, 2007: 1, 2008: 5}
+telecommunication network management: {2004: 1, 2005: 3, 2006: 3, 2007: 1, 2008: 1, 2009: 1, 2016: 2}
+low power: {2005: 3, 2007: 2, 2008: 2, 2012: 1, 2013: 2, 2017: 2}
+radio receivers: {2005: 2, 2006: 1, 2011: 1, 2012: 2, 2014: 3, 2016: 3}
+radiofrequency identification: {2005: 3, 2007: 3, 2009: 1, 2012: 1, 2014: 1, 2016: 2, 2017: 1}
+direction-of-arrival estimation: {2005: 2, 2006: 1, 2007: 2, 2009: 2, 2012: 2, 2013: 3}
+low-power electronics: {2005: 2, 2007: 2, 2008: 1, 2012: 3, 2013: 2, 2016: 2}
+sensor readings: {2005: 1, 2007: 5, 2008: 2, 2009: 2, 2012: 1, 2013: 1}
+compressed sensing: {2006: 2, 2007: 2, 2012: 3, 2013: 1, 2014: 1, 2017: 3}
+design implementation: {2006: 1, 2007: 3, 2008: 1, 2012: 1, 2013: 1, 2014: 3, 2016: 2}
+air quality: {2008: 2, 2012: 2, 2014: 6, 2017: 2}
+power demand: {2011: 4, 2012: 1, 2013: 3, 2016: 4}
+indoor localization: {2012: 3, 2014: 5, 2016: 3, 2017: 1}
+activity recognition: {2017: 12}
+mobile sensor networks: {2013: 3, 2005: 1, 2006: 2, 2008: 1, 2011: 2, 2017: 2}
+data communication: {2004: 4, 2008: 1, 2009: 1, 2012: 2, 2014: 1, 2017: 2}
+peer to peer computing: {2004: 3, 2005: 1, 2006: 3, 2008: 1, 2009: 2, 2011: 1}
+network traffic: {2004: 1, 2005: 1, 2006: 4, 2008: 5}
+hidden markov models: {2004: 2, 2005: 1, 2011: 1, 2012: 2, 2013: 1, 2014: 4}
+computerized monitoring: {2004: 1, 2005: 2, 2006: 1, 2007: 3, 2008: 2, 2009: 2}
+probability density function: {2005: 6, 2007: 2, 2008: 3}
+intrusion detection: {2005: 2, 2006: 2, 2007: 1, 2008: 2, 2014: 2, 2017: 2}
+flash memory: {2005: 3, 2006: 3, 2007: 1, 2009: 4}
+many applications: {2005: 1, 2006: 3, 2009: 1, 2011: 2, 2012: 1, 2014: 1, 2016: 1, 2017: 1}
+computerised monitoring: {2005: 1, 2007: 3, 2008: 2, 2012: 1, 2013: 2, 2014: 2}
+mac protocol: {2006: 1, 2008: 4, 2009: 1, 2012: 2, 2014: 3}
+atmospheric measurements: {2006: 1, 2009: 1, 2011: 2, 2012: 1, 2013: 2, 2014: 2, 2016: 1, 2017: 1}
+real time: {2007: 1, 2008: 1, 2012: 1, 2013: 1, 2014: 3, 2016: 3, 2017: 1}
+indoor environments: {2008: 1, 2009: 1, 2012: 2, 2013: 2, 2014: 2, 2017: 3}
+participatory sensing: {2009: 1, 2011: 5, 2012: 1, 2013: 1, 2014: 3}
+medical signal processing: {2011: 1, 2012: 2, 2013: 1, 2014: 2, 2016: 3, 2017: 2}
+face recognition: {2014: 5, 2016: 4, 2017: 2}
+state estimation: {2004: 5, 2005: 2, 2007: 1, 2009: 1, 2016: 1}
+trees (mathematics): {2011: 1, 2004: 1, 2005: 2, 2006: 1, 2008: 2, 2009: 3}
+computer network reliability: {2004: 1, 2005: 1, 2006: 1, 2007: 1, 2008: 1, 2009: 2, 2011: 1, 2014: 1, 2016: 1}
+processor scheduling: {2004: 3, 2005: 2, 2006: 1, 2007: 2, 2009: 2}
+markov processes: {2004: 6, 2009: 1, 2011: 2, 2017: 1}
+information theory: {2004: 7, 2006: 3}
+source coding: {2004: 3, 2005: 3, 2006: 1, 2007: 1, 2009: 1, 2012: 1}
+optimization problem: {2004: 4, 2005: 2, 2009: 4}
+machine learning: {2004: 2, 2006: 1, 2014: 2, 2016: 2, 2017: 3}
+packet radio networks: {2004: 2, 2005: 1, 2006: 2, 2007: 2, 2011: 1, 2013: 1, 2014: 1}
+time measurement: {2004: 1, 2005: 1, 2006: 1, 2008: 1, 2011: 1, 2012: 2, 2014: 2, 2016: 1}
+society officers: {2004: 1, 2005: 1, 2008: 1, 2011: 1, 2014: 1, 2016: 2, 2017: 3}
+proposed algorithm: {2005: 1, 2006: 2, 2007: 1, 2009: 1, 2011: 1, 2013: 2, 2016: 1, 2017: 1}
+ip networks: {2007: 1, 2008: 2, 2009: 5, 2012: 1, 2013: 1}
+indoor environment: {2008: 2, 2009: 1, 2013: 2, 2014: 3, 2016: 1, 2017: 1}
+information potentials: {2008: 4, 2009: 2, 2013: 4}
+fault diagnosis: {2008: 2, 2009: 1, 2011: 1, 2012: 4, 2016: 1, 2017: 1}
+wireless lan: {2008: 1, 2012: 1, 2014: 4, 2016: 2, 2017: 2}
+recent years: {2008: 1, 2011: 2, 2012: 2, 2013: 2, 2016: 3}
+web services: {2008: 2, 2009: 7, 2013: 1}
+building management systems: {2009: 1, 2011: 2, 2012: 2, 2013: 4, 2017: 1}
+unmanned aerial vehicles: {2011: 3, 2012: 1, 2017: 6}
+scheduling algorithm: {2009: 2, 2004: 1, 2006: 2, 2007: 2, 2017: 2}
+diversity reception: {2011: 2, 2005: 1, 2008: 1, 2009: 1, 2012: 1, 2014: 1, 2016: 2}
+real data: {2014: 2, 2007: 2, 2009: 2, 2012: 1, 2013: 1, 2017: 1}
+capacitive sensors: {2004: 3, 2005: 2, 2007: 3, 2008: 1}
+lower bound: {2004: 3, 2005: 4, 2007: 1, 2013: 1}
+data processing: {2004: 1, 2007: 1, 2008: 5, 2009: 1, 2013: 1}
+inference mechanisms: {2004: 3, 2005: 3, 2006: 1, 2014: 1, 2016: 1}
+gaussian processes: {2004: 1, 2005: 3, 2006: 3, 2008: 1, 2012: 1}
+remote monitoring: {2004: 1, 2005: 1, 2006: 1, 2007: 1, 2008: 3, 2009: 2}
+sink node: {2004: 2, 2007: 1, 2012: 2, 2014: 4}
+resource management: {2004: 2, 2005: 2, 2008: 1, 2009: 2, 2016: 1, 2017: 1}
+network lifetime: {2004: 1, 2005: 2, 2007: 2, 2009: 1, 2011: 1, 2012: 2}
+high accuracy: {2004: 1, 2005: 1, 2012: 2, 2014: 2, 2016: 2, 2017: 1}
+network servers: {2004: 1, 2006: 4, 2008: 1, 2009: 3}
+geographic routing: {2004: 3, 2005: 1, 2007: 5}
+mobile sensor network: {2005: 4, 2006: 2, 2011: 1, 2012: 1, 2017: 1}
+communication cost: {2005: 3, 2006: 3, 2007: 1, 2012: 1, 2013: 1}
+network coding: {2005: 3, 2007: 2, 2008: 4}
+signal detection: {2005: 1, 2006: 1, 2007: 5, 2009: 1, 2017: 1}
+energy storage: {2005: 3, 2006: 1, 2007: 3, 2008: 1, 2009: 1}
+signal reconstruction: {2005: 1, 2006: 2, 2007: 2, 2009: 2, 2013: 1, 2017: 1}
+optical sensors: {2006: 1, 2012: 2, 2013: 3, 2014: 3}
+computerised instrumentation: {2007: 7, 2014: 1, 2017: 1}
+operating system: {2007: 4, 2008: 1, 2009: 3, 2014: 1}
+image coding: {2007: 4, 2009: 4, 2014: 1}
+operating systems (computers): {2007: 3, 2008: 2, 2009: 2, 2011: 1, 2014: 1}
+mobile sensors: {2007: 1, 2008: 2, 2011: 4, 2012: 2}
+inertial sensors: {2008: 2, 2012: 2, 2013: 2, 2014: 1, 2016: 1, 2017: 1}
+evaluation results: {2008: 2, 2013: 1, 2014: 2, 2016: 4}
+neighbor discovery: {2008: 1, 2011: 1, 2017: 7}
+legged locomotion: {2008: 2, 2013: 1, 2014: 2, 2016: 4}
+data privacy: {2008: 3, 2016: 4, 2017: 2}
+compressive sensing: {2009: 1, 2012: 5, 2017: 3}
+smart phone: {2009: 3, 2011: 2, 2013: 2, 2014: 2}
+mathematical model: {2011: 1, 2012: 2, 2013: 1, 2014: 4, 2016: 1}
+constructive interference: {2011: 3, 2012: 2, 2014: 4}
+logic gates: {2011: 1, 2012: 1, 2014: 2, 2016: 2, 2017: 3}
+software radio: {2012: 6, 2016: 3}
+support vector machines: {2012: 3, 2013: 3, 2017: 3}
+chemical sensors: {2008: 2, 2004: 1, 2005: 2, 2007: 2, 2009: 1}
+clustering algorithms: {2008: 1, 2007: 1, 2012: 1, 2013: 2, 2017: 3}
+10 %: {2008: 2, 2004: 2, 2013: 1, 2014: 2, 2016: 1}
+radio link: {2011: 1, 2005: 2, 2006: 1, 2007: 2, 2012: 1, 2013: 1}
+communication resources: {2013: 1, 2004: 6, 2008: 1}
+mobile nodes: {2013: 1, 2006: 1, 2009: 2, 2012: 2, 2014: 1, 2017: 1}
+indoor navigation: {2016: 5, 2014: 2, 2017: 1}
+quality of service: {2004: 1, 2005: 3, 2007: 3, 2009: 1}
+joining processes: {2004: 1, 2005: 3, 2007: 1, 2011: 1, 2012: 1, 2017: 1}
+energy cost: {2004: 1, 2006: 1, 2011: 1, 2012: 1, 2013: 2, 2014: 2}
+low cost: {2004: 1, 2007: 2, 2008: 1, 2012: 3, 2017: 1}
+correlation methods: {2004: 1, 2005: 3, 2008: 2, 2012: 1, 2016: 1}
+gaussian noise: {2004: 2, 2005: 4, 2006: 1, 2007: 1}
+iterative algorithms: {2004: 2, 2006: 1, 2007: 3, 2009: 2}
+position measurement: {2004: 2, 2005: 1, 2007: 1, 2009: 1, 2012: 1, 2013: 1, 2016: 1}
+optimal solution: {2004: 2, 2007: 1, 2009: 5}
+security of data: {2004: 1, 2005: 1, 2008: 1, 2009: 2, 2016: 1, 2017: 2}
+resource allocation: {2004: 2, 2006: 1, 2008: 1, 2013: 2, 2016: 2}
+computer security: {2004: 1, 2005: 1, 2006: 1, 2009: 3, 2016: 2}
+grid computing: {2004: 1, 2005: 5, 2008: 1, 2009: 1}
+sleep scheduling: {2004: 1, 2005: 1, 2006: 2, 2007: 1, 2016: 1, 2017: 2}
+small number: {2004: 1, 2005: 1, 2006: 1, 2007: 2, 2013: 1, 2017: 2}
+sensed data: {2004: 1, 2006: 5, 2011: 1, 2014: 1}
+localization error: {2004: 1, 2006: 2, 2007: 2, 2008: 1, 2017: 2}
+communication system security: {2005: 2, 2006: 2, 2007: 1, 2008: 1, 2009: 2}
+multipath channels: {2005: 2, 2006: 3, 2007: 2, 2012: 1}
+embedded computing: {2005: 1, 2006: 2, 2007: 2, 2008: 2, 2009: 1}
+preliminary results: {2005: 1, 2009: 1, 2012: 1, 2013: 1, 2014: 1, 2016: 1, 2017: 2}
+mobility management (mobile radio): {2005: 1, 2007: 1, 2008: 3, 2014: 1, 2016: 1, 2017: 1}
+random access memory: {2005: 1, 2007: 1, 2009: 2, 2011: 2, 2016: 1, 2017: 1}
+noise measurement: {2005: 2, 2006: 1, 2011: 1, 2013: 1, 2016: 1, 2017: 2}
+message passing: {2005: 3, 2007: 1, 2009: 2, 2011: 2}
+low power consumption: {2005: 1, 2008: 1, 2009: 3, 2013: 2, 2016: 1}
+radio signals: {2005: 2, 2006: 1, 2012: 1, 2016: 2, 2017: 2}
+magnetic sensors: {2005: 2, 2007: 1, 2009: 1, 2012: 1, 2013: 3}
+working environment noise: {2005: 1, 2006: 3, 2007: 1, 2008: 2, 2009: 1}
+spatiotemporal phenomena: {2005: 3, 2006: 1, 2008: 1, 2009: 1, 2016: 2}
+statistical analysis: {2005: 1, 2006: 1, 2007: 1, 2008: 1, 2009: 1, 2012: 1, 2014: 1, 2016: 1}
+wireless devices: {2005: 1, 2011: 4, 2017: 3}
+radio device: {2006: 3, 2012: 4, 2013: 1}
+microphone arrays: {2006: 2, 2007: 3, 2008: 2, 2011: 1}
+universal serial bus: {2006: 1, 2008: 1, 2009: 1, 2013: 2, 2014: 2, 2017: 1}
+program debugging: {2006: 1, 2007: 1, 2011: 3, 2012: 1, 2013: 1, 2014: 1}
+extensive experiments: {2007: 1, 2008: 1, 2011: 1, 2014: 2, 2016: 2, 2017: 1}
+rapid prototyping: {2007: 2, 2011: 1, 2012: 3, 2016: 2}
+pollution measurement: {2007: 1, 2008: 1, 2011: 1, 2012: 1, 2013: 2, 2014: 2}
+introductory welcome message: {2008: 2, 2014: 2, 2016: 2, 2017: 2}
+radiofrequency interference: {2009: 1, 2011: 1, 2012: 2, 2014: 1, 2016: 2, 2017: 1}
+social networking (online): {2011: 1, 2012: 1, 2013: 1, 2014: 2, 2016: 3}
+social sensing applications: {2012: 5, 2016: 3}
+social sensing: {2012: 4, 2014: 3, 2016: 1}
+telecommunication power management: {2012: 2, 2014: 2, 2016: 3, 2017: 1}
+sensor measurements: {2007: 3, 2006: 3, 2016: 1}
+sensor selection: {2008: 1, 2004: 1, 2006: 2, 2007: 1, 2013: 2}
+pattern clustering: {2008: 1, 2011: 1, 2012: 1, 2013: 1, 2017: 3}
+sensor deployment: {2008: 1, 2004: 2, 2011: 1, 2012: 3}
+conformal mapping: {2009: 3, 2011: 4}
+graphical user interfaces: {2011: 2, 2005: 1, 2007: 2, 2008: 1, 2012: 1}
+bayes methods: {2013: 1, 2005: 2, 2006: 1, 2007: 1, 2008: 1, 2009: 1}
+urban areas: {2017: 4, 2009: 2, 2016: 1}
+low complexity: {2004: 1, 2005: 1, 2007: 1, 2008: 2, 2009: 2}
+software design: {2004: 1, 2005: 4, 2008: 1, 2009: 1}
+data handling: {2004: 2, 2011: 1, 2012: 2, 2016: 1, 2017: 1}
+telecommunication control: {2004: 1, 2005: 3, 2007: 1, 2008: 1, 2011: 1}
+power control: {2004: 3, 2005: 1, 2007: 1, 2011: 1, 2012: 1}
+recent advances: {2004: 1, 2005: 2, 2012: 1, 2013: 1, 2017: 2}
+upper bound: {2004: 3, 2005: 4}
+data engineering: {2004: 2, 2005: 1, 2006: 2, 2007: 2}
+source localization: {2004: 2, 2005: 2, 2006: 1, 2012: 2}
+design optimization: {2004: 1, 2005: 2, 2006: 1, 2008: 1, 2009: 2}
+bayesian methods: {2004: 1, 2005: 1, 2006: 1, 2007: 1, 2008: 1, 2009: 1, 2011: 1}
+proposed scheme: {2004: 1, 2005: 1, 2007: 1, 2016: 4}
+machine learning algorithms: {2004: 1, 2013: 1, 2017: 5}
+different types: {2004: 1, 2007: 1, 2008: 1, 2009: 1, 2014: 1, 2016: 1, 2017: 1}
+network protocols: {2004: 1, 2008: 1, 2011: 3, 2012: 1, 2014: 1}
+probability distribution: {2004: 1, 2005: 4, 2011: 2}
+signal to noise ratio: {2004: 1, 2007: 1, 2011: 3, 2012: 1, 2016: 1}
+key idea: {2004: 1, 2007: 1, 2009: 2, 2011: 1, 2012: 1, 2016: 1}
+static sensor networks: {2004: 2, 2005: 1, 2007: 1, 2011: 3}
+welcome message: {2004: 1, 2005: 2, 2006: 2, 2009: 1, 2011: 1}
+location information: {2005: 1, 2007: 1, 2008: 3, 2013: 2}
+network operating systems: {2005: 1, 2007: 3, 2008: 3}
+programming profession: {2005: 1, 2006: 1, 2007: 2, 2008: 1, 2009: 2}
+memory management: {2005: 1, 2006: 2, 2014: 4}
+discrete event simulation: {2005: 1, 2006: 2, 2007: 2, 2009: 2}
+pervasive computing: {2005: 2, 2006: 1, 2007: 2, 2009: 1, 2017: 1}
+local information: {2005: 1, 2006: 5, 2011: 1}
+mobile agents: {2005: 4, 2006: 3}
+public key cryptography: {2005: 1, 2006: 2, 2008: 3, 2009: 1}
+linear programming: {2005: 1, 2006: 4, 2008: 2}
+program compilers: {2005: 1, 2007: 1, 2009: 1, 2011: 1, 2013: 1, 2014: 1, 2016: 1}
+existing approaches: {2006: 1, 2008: 2, 2009: 1, 2011: 1, 2013: 1, 2017: 1}
+environmental factors: {2006: 2, 2008: 2, 2009: 1, 2011: 1, 2012: 1}
+initial results: {2006: 2, 2009: 1, 2012: 1, 2016: 3}
+target detection: {2006: 2, 2007: 4, 2011: 1}
+design engineering: {2006: 2, 2007: 2, 2009: 2, 2016: 1}
+distributed programming: {2006: 4, 2007: 1, 2008: 1, 2009: 1}
+time-of-arrival estimation: {2006: 1, 2011: 2, 2012: 2, 2016: 2}
+high degree: {2006: 1, 2007: 2, 2008: 1, 2014: 1, 2016: 2}
+micaz motes: {2007: 2, 2008: 3, 2011: 2}
+acoustic source localization: {2007: 2, 2008: 1, 2009: 2, 2012: 1, 2013: 1}
+retos operating system: {2007: 3, 2008: 2, 2009: 2}
+vibration measurement: {2007: 2, 2008: 1, 2011: 1, 2013: 1, 2016: 2}
+multiple applications: {2007: 2, 2011: 1, 2013: 1, 2014: 1, 2017: 2}
+multiple channels: {2007: 1, 2008: 1, 2009: 2, 2016: 3}
+telosb motes: {2007: 2, 2009: 2, 2012: 2, 2013: 1}
+computer vision: {2008: 2, 2009: 1, 2012: 2, 2014: 1, 2017: 1}
+physical world: {2008: 2, 2012: 1, 2014: 2, 2016: 1, 2017: 1}
+home automation: {2008: 1, 2013: 3, 2016: 3}
+point-to-point routing: {2009: 3, 2011: 2, 2012: 2}
+natural environment: {2011: 5, 2012: 1, 2016: 1}
+cyber-physical systems: {2011: 4, 2013: 2, 2017: 1}
+& # x201c: {2011: 1, 2012: 1, 2013: 3, 2014: 1, 2017: 1}
+autonomous aerial vehicles: {2012: 2, 2013: 1, 2017: 4}
+multiple subjects: {2013: 6, 2017: 1}
+cloud computing: {2014: 2, 2016: 2, 2017: 3}
+deep learning: {2016: 5, 2017: 2}
+infrared detectors: {2005: 1, 2007: 1, 2013: 2, 2014: 1, 2016: 1}
+theoretical results: {2008: 1, 2006: 2, 2007: 2, 2009: 1}
+particle filters: {2013: 1, 2004: 1, 2005: 1, 2007: 3}
+extensive simulations: {2004: 1, 2007: 2, 2012: 1, 2013: 2}
+image reconstruction: {2004: 3, 2007: 1, 2008: 2}
+overall energy consumption: {2004: 2, 2006: 1, 2007: 1, 2014: 2}
+computer network management: {2004: 3, 2005: 2, 2007: 1}
+in-network processing: {2004: 2, 2006: 1, 2007: 1, 2011: 1, 2013: 1}
+data dissemination: {2004: 1, 2006: 2, 2009: 2, 2012: 1}
+node failure: {2004: 4, 2005: 1, 2016: 1}
+stochastic processes: {2004: 3, 2005: 1, 2006: 2}
+data aggregation: {2004: 3, 2007: 2, 2014: 1}
+distortion measurement: {2004: 2, 2005: 2, 2014: 2}
+compression algorithms: {2004: 1, 2006: 2, 2009: 3}
+parameter estimation: {2004: 2, 2005: 1, 2008: 3}
+network throughput: {2004: 1, 2007: 1, 2008: 1, 2009: 3}
+estimation theory: {2004: 2, 2007: 1, 2012: 1, 2014: 2}
+network size: {2004: 2, 2006: 1, 2012: 3}
+iterative methods: {2004: 1, 2005: 2, 2007: 1, 2009: 1, 2012: 1}
+delay effects: {2004: 1, 2005: 2, 2006: 2, 2008: 1}
+signal strength: {2004: 1, 2005: 1, 2008: 1, 2011: 1, 2012: 1, 2016: 1}
+anchor nodes: {2004: 3, 2006: 1, 2017: 2}
+channel coding: {2004: 1, 2005: 3, 2009: 1, 2012: 1}
+concurrent computing: {2004: 1, 2005: 2, 2008: 1, 2009: 1, 2014: 1}
+sensor network data: {2004: 2, 2006: 1, 2008: 1, 2011: 1, 2012: 1}
+sybil attack: {2004: 5, 2009: 1}
+acoustic signal detection: {2004: 2, 2005: 1, 2007: 2, 2011: 1}
+recent work: {2004: 1, 2005: 1, 2007: 2, 2013: 1, 2017: 1}
+maintenance engineering: {2004: 1, 2011: 1, 2012: 1, 2013: 1, 2016: 2}
+greedy algorithms: {2004: 1, 2006: 1, 2007: 1, 2009: 1, 2011: 1, 2012: 1}
+node localization: {2004: 2, 2006: 1, 2009: 1, 2011: 1, 2017: 1}
+energy measurement: {2004: 1, 2006: 2, 2007: 1, 2008: 1, 2013: 1}
+fine-grained control: {2005: 2, 2008: 2, 2013: 2}
+smart homes: {2005: 1, 2013: 1, 2016: 4}
+dynamic range: {2005: 2, 2007: 3, 2013: 1}
+multiple sensors: {2005: 1, 2007: 3, 2017: 2}
+space exploration: {2005: 1, 2006: 1, 2009: 1, 2011: 3}
+communication graph: {2005: 1, 2006: 1, 2009: 2, 2016: 2}
+every node: {2005: 1, 2006: 1, 2007: 2, 2009: 1, 2016: 1}
+ultrasonic imaging: {2005: 1, 2006: 2, 2008: 1, 2011: 1, 2017: 1}
+storage management: {2005: 2, 2009: 1, 2013: 1, 2014: 2}
+dynamic programming: {2005: 1, 2007: 1, 2012: 1, 2014: 3}
+constraint theory: {2005: 4, 2008: 1, 2013: 1}
+biology computing: {2005: 1, 2007: 1, 2009: 1, 2012: 1, 2017: 2}
+medium access control: {2005: 1, 2006: 2, 2007: 1, 2008: 2}
+program processors: {2005: 1, 2007: 1, 2009: 1, 2011: 1, 2012: 1, 2016: 1}
+routing protocol: {2005: 1, 2009: 1, 2012: 3, 2016: 1}
+medical services: {2005: 1, 2006: 1, 2008: 1, 2009: 2, 2011: 1}
+important role: {2006: 1, 2014: 2, 2016: 1, 2017: 2}
+wireless links: {2006: 1, 2008: 5}
+mobile sensing: {2006: 1, 2012: 2, 2014: 2, 2017: 1}
+network connectivity: {2006: 1, 2007: 2, 2008: 3}
+wavelet transforms: {2006: 3, 2008: 2, 2009: 1}
+system testing: {2006: 1, 2007: 1, 2008: 1, 2009: 3}
+data visualization: {2006: 2, 2011: 1, 2012: 1, 2013: 1, 2016: 1}
+energy dissipation: {2006: 1, 2007: 1, 2008: 4}
+sensor devices: {2006: 1, 2007: 1, 2008: 2, 2014: 2}
+camera sensor networks: {2006: 1, 2009: 5}
+ultra wideband technology: {2006: 1, 2008: 1, 2009: 1, 2016: 2, 2017: 1}
+90 %: {2007: 1, 2009: 1, 2012: 2, 2016: 2}
+power meters: {2007: 1, 2008: 1, 2012: 1, 2013: 2, 2014: 1}
+image compression: {2007: 5, 2009: 1}
+false alarm probability: {2007: 3, 2008: 1, 2016: 2}
+proposed technique: {2007: 4, 2008: 1, 2009: 1}
+biomedical measurement: {2007: 2, 2011: 2, 2013: 1, 2014: 1}
+mobile users: {2007: 2, 2009: 3, 2014: 1}
+fault detection: {2008: 2, 2009: 2, 2012: 2}
+50 %: {2008: 1, 2009: 1, 2012: 1, 2013: 2, 2016: 1}
+cities and towns: {2008: 2, 2009: 1, 2011: 1, 2012: 1, 2014: 1}
+low-power wireless networks: {2009: 1, 2011: 2, 2012: 2, 2016: 1}
+sparse approximation: {2009: 3, 2012: 1, 2014: 2}
+geophysical techniques: {2009: 2, 2011: 2, 2013: 1, 2016: 1}
+social network services: {2009: 1, 2013: 3, 2016: 1, 2017: 1}
+vehicle classification: {2011: 3, 2013: 3}
+hvac systems: {2011: 2, 2013: 3, 2017: 1}
+ieee 802.11 standards: {2011: 2, 2014: 4}
+gait analysis: {2012: 1, 2013: 2, 2016: 2, 2017: 1}
+wireless mesh networks: {2013: 2, 2014: 1, 2016: 2, 2017: 1}
+smart meters: {2013: 5, 2016: 1}
+ball screw: {2013: 6}
+conference officers: {2014: 2, 2016: 2, 2017: 2}
+' congratulations: {2014: 2, 2016: 2, 2017: 2}
+conference event publication: {2014: 2, 2016: 2, 2017: 2}
+proceedings record: {2014: 2, 2016: 2, 2017: 2}
+indoor air quality: {2014: 5, 2017: 1}
+visible light communication: {2014: 2, 2016: 4}
+industrial wireless sensor networks: {2014: 2, 2017: 4}
+slotted protocols: {2017: 6}
+distributed system: {2004: 4, 2009: 1}
+random projections: {2006: 3, 2007: 1, 2012: 1}
+randomised algorithms: {2006: 2, 2004: 2, 2005: 1}
+least squares approximations: {2007: 1, 2005: 2, 2014: 1, 2017: 1}
+peer-to-peer computing: {2012: 1, 2005: 1, 2006: 1, 2009: 1, 2014: 1}
+micro-aerial vehicle: {2013: 2, 2012: 3}
+air traffic control: {2014: 5}
+30 %: {2014: 2, 2007: 1, 2011: 1, 2012: 1}
+experimental evaluation: {2016: 2, 2008: 2, 2013: 1}
+communication complexity: {2004: 4, 2008: 1}
+energy constraints: {2004: 2, 2008: 3}
+software engineering: {2004: 1, 2005: 1, 2006: 1, 2007: 1, 2009: 1}
+design space: {2004: 2, 2005: 1, 2006: 1, 2009: 1}
+software components: {2004: 1, 2006: 1, 2007: 1, 2008: 2}
+dense sensor network: {2004: 1, 2006: 1, 2011: 3}
+simulation framework: {2004: 1, 2012: 3, 2017: 1}
+wireless sensor nodes: {2004: 1, 2009: 1, 2012: 1, 2014: 2}
+current measurement: {2004: 1, 2008: 1, 2009: 1, 2013: 2}
+power system management: {2004: 1, 2005: 2, 2006: 1, 2007: 1}
+packet transmissions: {2004: 2, 2006: 1, 2011: 2}
+optimal routing: {2004: 4, 2014: 1}
+distributed sampling: {2004: 3, 2006: 1, 2007: 1}
+temperature field: {2004: 4, 2005: 1}
+correlation theory: {2004: 2, 2005: 2, 2006: 1}
+spatial correlations: {2004: 4, 2006: 1}
+combined source-channel coding: {2004: 1, 2005: 3, 2009: 1}
+communication overhead: {2004: 3, 2009: 1, 2013: 1}
+distributed databases: {2004: 2, 2008: 1, 2009: 1, 2011: 1}
+distributed computation: {2004: 1, 2006: 1, 2007: 1, 2009: 1, 2011: 1}
+broad range: {2004: 1, 2005: 1, 2006: 1, 2007: 1, 2009: 1}
+monte carlo methods: {2004: 1, 2007: 1, 2008: 2, 2011: 1}
+graphical models: {2004: 2, 2006: 2, 2014: 1}
+estimation error: {2004: 1, 2005: 1, 2009: 1, 2014: 1, 2017: 1}
+error analysis: {2004: 1, 2006: 2, 2009: 1, 2013: 1}
+ad hoc network: {2004: 4, 2005: 1}
+convex programming: {2004: 2, 2011: 1, 2012: 2}
+prior work: {2004: 1, 2011: 1, 2012: 2, 2014: 1}
+many sensor network applications: {2004: 1, 2005: 2, 2006: 1, 2014: 1}
+mutual information: {2004: 2, 2008: 3}
+random processes: {2004: 2, 2005: 2, 2009: 1}
+80 %: {2004: 1, 2012: 1, 2014: 1, 2016: 1, 2017: 1}
+process control: {2004: 1, 2008: 1, 2009: 1, 2011: 2}
+new approach: {2004: 1, 2009: 1, 2011: 1, 2013: 1, 2016: 1}
+geometric constraints: {2004: 2, 2009: 1, 2011: 2}
+node positions: {2004: 2, 2005: 1, 2011: 1, 2017: 1}
+position estimation: {2004: 2, 2005: 2, 2006: 1}
+two types: {2004: 1, 2005: 1, 2008: 1, 2013: 1, 2016: 1}
+distributed beamforming: {2004: 1, 2012: 4}
+coverage problem: {2005: 1, 2006: 3, 2007: 1}
+communication channels: {2005: 3, 2008: 1, 2016: 1}
+total number: {2005: 1, 2007: 1, 2008: 1, 2013: 1, 2016: 1}
+scheduling problem: {2005: 2, 2007: 1, 2009: 1, 2012: 1}
+game theory: {2005: 1, 2006: 1, 2014: 3}
+fading channels: {2005: 2, 2006: 1, 2007: 2}
+routing algorithms: {2005: 3, 2006: 2}
+spatial phenomena: {2005: 1, 2006: 2, 2009: 2}
+entire network: {2005: 1, 2006: 1, 2007: 1, 2012: 1, 2016: 1}
+' data: {2005: 1, 2006: 2, 2014: 1, 2016: 1}
+application requirements: {2005: 1, 2006: 1, 2009: 1, 2012: 1, 2016: 1}
+multipath effect: {2005: 1, 2012: 2, 2017: 2}
+signal resolution: {2005: 1, 2006: 2, 2012: 1, 2016: 1}
+radio direction-finding: {2005: 1, 2009: 2, 2012: 1, 2016: 1}
+power efficiency: {2005: 4, 2007: 1}
+solar power: {2005: 2, 2008: 1, 2014: 2}
+energy management systems: {2005: 2, 2011: 1, 2013: 2}
+energy optimization: {2005: 2, 2006: 1, 2014: 2}
+key challenge: {2005: 1, 2008: 1, 2009: 1, 2012: 1, 2014: 1}
+large class: {2005: 2, 2007: 1, 2008: 1, 2009: 1}
+large-scale sensor network: {2005: 2, 2007: 1, 2014: 2}
+sensor field: {2005: 2, 2006: 1, 2007: 1, 2008: 1}
+software tools: {2005: 1, 2006: 1, 2007: 1, 2008: 2}
+functional programming: {2005: 1, 2007: 2, 2011: 2}
+power supplies: {2005: 2, 2012: 3}
+sensor network localization: {2005: 3, 2016: 2}
+information technology: {2005: 1, 2017: 4}
+approximation algorithm: {2005: 1, 2006: 1, 2017: 3}
+fault tolerance: {2005: 1, 2006: 1, 2007: 1, 2008: 2}
+functional lifetime: {2005: 5}
+high level languages: {2005: 2, 2007: 1, 2008: 2}
+topology control: {2006: 1, 2007: 2, 2009: 2}
+smart cameras: {2006: 1, 2007: 2, 2008: 2}
+duty cycling: {2006: 1, 2008: 1, 2012: 3}
+node density: {2006: 1, 2011: 1, 2013: 3}
+application layer: {2006: 1, 2007: 1, 2009: 3}
+computer simulation: {2006: 1, 2007: 1, 2009: 3}
+tinynode platform: {2006: 2, 2011: 3}
+high performance computing: {2006: 2, 2007: 1, 2008: 1, 2009: 1}
+system software: {2006: 2, 2007: 1, 2012: 2}
+network management: {2006: 1, 2007: 1, 2014: 1, 2016: 2}
+software libraries: {2006: 1, 2008: 1, 2011: 3}
+rf signals: {2006: 1, 2007: 1, 2009: 2, 2012: 1}
+interference (signal): {2006: 1, 2007: 1, 2008: 1, 2011: 2}
+radar tracking: {2006: 2, 2007: 1, 2008: 2}
+structural health monitoring: {2006: 2, 2007: 2, 2013: 1}
+high level: {2006: 1, 2007: 2, 2008: 1, 2011: 1}
+actuator network: {2006: 1, 2007: 1, 2009: 2, 2016: 1}
+environmental noise: {2007: 2, 2013: 2, 2016: 1}
+communication range: {2007: 1, 2011: 1, 2012: 1, 2017: 2}
+wireless sensor network applications: {2007: 1, 2008: 1, 2009: 1, 2011: 2}
+image quality: {2007: 2, 2009: 3}
+pipeline monitoring: {2007: 2, 2012: 3}
+programming errors: {2007: 3, 2014: 2}
+lighting control: {2007: 2, 2008: 1, 2011: 1, 2012: 1}
+inertial measurement unit: {2007: 1, 2013: 2, 2016: 2}
+passive rfid tags: {2007: 1, 2017: 4}
+802.15.4 radios: {2008: 3, 2009: 1, 2013: 1}
+echo state networks: {2008: 5}
+code dissemination: {2008: 3, 2014: 2}
+object recognition: {2008: 3, 2013: 1, 2017: 1}
+cyclic cellular automata: {2008: 3, 2012: 1, 2014: 1}
+application program interfaces: {2008: 1, 2011: 2, 2016: 1, 2017: 1}
+video surveillance: {2008: 2, 2014: 2, 2017: 1}
+network performance: {2008: 2, 2013: 1, 2014: 2}
+social networks: {2008: 1, 2013: 2, 2016: 2}
+open systems: {2008: 1, 2011: 1, 2012: 1, 2013: 1, 2016: 1}
+web service: {2008: 1, 2009: 4}
+mobility graph: {2009: 5}
+digital signatures: {2009: 4, 2017: 1}
+biomedical communication: {2009: 2, 2012: 1, 2014: 2}
+heuristic algorithms: {2009: 1, 2011: 1, 2012: 1, 2013: 1, 2017: 1}
+gesture recognition: {2009: 1, 2014: 2, 2016: 1, 2017: 1}
+proposed system: {2009: 1, 2011: 1, 2013: 2, 2016: 1}
+localization system: {2009: 1, 2013: 1, 2017: 3}
+closed loop systems: {2009: 2, 2011: 1, 2012: 1, 2013: 1}
+reliable communication: {2009: 2, 2011: 3}
+testbed experiments: {2009: 1, 2011: 1, 2012: 1, 2013: 1, 2016: 1}
+end-to-end system: {2011: 3, 2012: 2}
+concurrent transmissions: {2011: 3, 2014: 2}
+access point: {2011: 2, 2012: 2, 2013: 1}
+united states: {2011: 3, 2012: 1, 2013: 1}
+external sensors: {2011: 1, 2013: 3, 2016: 1}
+circadian rhythms: {2011: 5}
+energy waste: {2011: 1, 2013: 2, 2016: 2}
+hvac system: {2011: 3, 2013: 2}
+neural nets: {2011: 1, 2013: 1, 2016: 1, 2017: 2}
+electric sensing devices: {2012: 2, 2013: 2, 2014: 1}
+mobile phone: {2012: 4, 2013: 1}
+motion measurement: {2012: 3, 2013: 1, 2014: 1}
+device-free localization: {2012: 1, 2013: 2, 2014: 2}
+sparse representation: {2012: 3, 2014: 2}
+truth discovery problem: {2012: 2, 2016: 3}
+illumination maps: {2012: 3, 2013: 2}
+three-dimensional displays: {2012: 1, 2016: 1, 2017: 3}
+sleep apnea: {2013: 5}
+neural networks: {2013: 2, 2016: 1, 2017: 2}
+floor plan: {2013: 2, 2014: 3}
+indoor tracking: {2014: 2, 2016: 2, 2017: 1}
+indoor localization system: {2014: 3, 2017: 2}
+light sensors: {2014: 3, 2016: 2}
+pimi air box: {2014: 5}
+'s location: {2014: 1, 2017: 4}
+actuator networks: {2016: 5}
+iot applications: {2016: 1, 2017: 4}
+smart glasses: {2016: 5}
+new algorithm: {2004: 1, 2006: 1, 2014: 1, 2016: 1}
+acoustic sensor: {2005: 1, 2012: 2, 2017: 1}
+blind source separation: {2007: 1, 2013: 1, 2016: 1, 2017: 1}
+proposed algorithms: {2007: 2, 2004: 1, 2017: 1}
+spatial correlation: {2008: 1, 2004: 2, 2014: 1}
+greedy forwarding: {2009: 2, 2004: 2}
+communication reliability: {2011: 4}
+new class: {2013: 1, 2006: 1, 2012: 1, 2017: 1}
+benchmark testing: {2016: 1, 2011: 2, 2014: 1}
+power grids: {2017: 3, 2016: 1}
+electric network frequency: {2017: 4}
+power system modeling: {2004: 2, 2008: 1, 2009: 1}
+selection method: {2004: 4}
+software packages: {2004: 1, 2005: 2, 2008: 1}
+resource constraint: {2004: 2, 2009: 1, 2013: 1}
+data integration: {2004: 2, 2012: 1, 2013: 1}
+clock synchronization: {2004: 4}
+static networks: {2004: 2, 2008: 2}
+network capacity: {2004: 3, 2005: 1}
+distributed coding: {2004: 1, 2006: 2, 2012: 1}
+heat source: {2004: 4}
+space time: {2004: 3, 2006: 1}
+noisy measurements: {2004: 3, 2007: 1}
+energy resources: {2004: 1, 2005: 2, 2009: 1}
+constraint optimization: {2004: 3, 2005: 1}
+communication bandwidth: {2004: 2, 2007: 1, 2009: 1}
+previous works: {2004: 1, 2009: 1, 2013: 1, 2017: 1}
+communication networks: {2004: 1, 2005: 1, 2008: 1, 2017: 1}
+detection performance: {2004: 1, 2005: 1, 2007: 1, 2008: 1}
+information gradients: {2004: 1, 2008: 3}
+distributed fashion: {2004: 3, 2007: 1}
+design methodology: {2004: 1, 2006: 1, 2009: 2}
+distributed estimation: {2004: 3, 2009: 1}
+military computing: {2004: 2, 2005: 1, 2007: 1}
+belief networks: {2004: 1, 2005: 1, 2007: 1, 2011: 1}
+bayesian network: {2004: 2, 2008: 2}
+distributed source: {2004: 1, 2005: 1, 2012: 2}
+belief propagation: {2004: 1, 2005: 2, 2007: 1}
+traffic control: {2004: 1, 2005: 1, 2006: 1, 2008: 1}
+digital signal processing: {2004: 1, 2007: 1, 2011: 1, 2012: 1}
+artificial intelligence: {2004: 1, 2005: 1, 2017: 2}
+collaborative information processing: {2004: 2, 2005: 2}
+application specific integrated circuits: {2004: 2, 2008: 2}
+bit rate: {2004: 1, 2005: 1, 2006: 1, 2007: 1}
+dither-based scheme: {2004: 2, 2006: 2}
+target localization: {2004: 2, 2006: 2}
+active sensors: {2004: 2, 2007: 1, 2008: 1}
+dynamic environments: {2004: 2, 2013: 1, 2017: 1}
+spanning tree: {2004: 2, 2009: 2}
+sensing coverage: {2004: 1, 2008: 1, 2013: 2}
+inference algorithms: {2004: 1, 2006: 1, 2007: 1, 2016: 1}
+event-driven applications: {2004: 2, 2007: 2}
+energy efficient: {2004: 1, 2008: 1, 2013: 1, 2014: 1}
+location estimation: {2004: 1, 2006: 1, 2008: 1, 2012: 1}
+collector node: {2004: 3, 2005: 1}
+numerical results: {2004: 1, 2007: 1, 2017: 2}
+wireless technology: {2004: 1, 2011: 1, 2012: 1, 2017: 1}
+environment monitoring: {2004: 2, 2007: 1, 2017: 1}
+polynomial time: {2004: 2, 2006: 2}
+randomized algorithm: {2004: 2, 2006: 2}
+first algorithm: {2004: 2, 2005: 1, 2008: 1}
+reference nodes: {2004: 3, 2011: 1}
+road safety: {2004: 1, 2011: 1, 2012: 1, 2017: 1}
+known locations: {2004: 2, 2016: 2}
+sleep schedule: {2004: 1, 2005: 2, 2008: 1}
+location errors: {2004: 4}
+localization errors: {2004: 2, 2016: 2}
+heart beat: {2004: 1, 2016: 1, 2017: 2}
+antenna arrays: {2004: 2, 2009: 2}
+power engineering and energy: {2004: 1, 2006: 1, 2007: 2}
+fundamental problem: {2004: 1, 2007: 1, 2012: 1, 2016: 1}
+new technique: {2005: 1, 2009: 1, 2011: 1, 2012: 1}
+telecommunication services: {2005: 1, 2008: 1, 2009: 2}
+ieee 802.15.4: {2005: 1, 2006: 1, 2012: 1, 2017: 1}
+inertial sensing: {2005: 1, 2011: 1, 2013: 2}
+localization performance: {2005: 2, 2008: 2}
+two algorithms: {2005: 1, 2006: 1, 2008: 2}
+space technology: {2005: 3, 2006: 1}
+buffer storage: {2005: 2, 2006: 1, 2008: 1}
+optimal control: {2005: 4}
+telecommunication links: {2005: 3, 2007: 1}
+probabilistic logic: {2005: 1, 2011: 2, 2012: 1}
+matrix algebra: {2005: 2, 2014: 2}
+network bandwidth: {2005: 2, 2012: 2}
+unknown parameters: {2005: 1, 2006: 3}
+geographic information: {2005: 1, 2006: 1, 2011: 2}
+small fraction: {2005: 2, 2012: 1, 2014: 1}
+binary sensors: {2005: 4}
+event-driven programming: {2005: 2, 2011: 2}
+ambient intelligence: {2005: 3, 2013: 1}
+message authentication: {2005: 1, 2006: 1, 2009: 2}
+malicious attacks: {2005: 3, 2009: 1}
+home appliances: {2005: 1, 2013: 2, 2016: 1}
+radio tracking: {2005: 1, 2012: 1, 2013: 1, 2017: 1}
+solar energy: {2005: 3, 2012: 1}
+junction tree: {2005: 4}
+tree data structures: {2005: 2, 2006: 1, 2008: 1}
+prototype implementation: {2005: 1, 2008: 1, 2014: 1, 2016: 1}
+electronic mail: {2005: 1, 2014: 1, 2016: 2}
+network reliability: {2005: 1, 2006: 1, 2011: 1, 2016: 1}
+information security: {2005: 2, 2006: 1, 2009: 1}
+computer graphics: {2005: 1, 2007: 3}
+random deployment: {2005: 3, 2006: 1}
+data transmission: {2005: 1, 2009: 2, 2016: 1}
+error estimation: {2005: 1, 2012: 1, 2013: 2}
+microprocessor chips: {2005: 2, 2012: 1, 2017: 1}
+interference suppression: {2005: 1, 2006: 1, 2014: 1, 2016: 1}
+fingerprint recognition: {2005: 1, 2012: 1, 2014: 1, 2016: 1}
+perpetual operation: {2005: 3, 2016: 1}
+sensor density: {2005: 2, 2006: 2}
+channel estimation: {2005: 1, 2006: 1, 2009: 1, 2016: 1}
+covariance matrix: {2005: 1, 2016: 3}
+path planning: {2005: 1, 2006: 2, 2017: 1}
+area measurement: {2005: 1, 2006: 1, 2009: 1, 2012: 1}
+gaussian process: {2005: 1, 2006: 1, 2014: 2}
+remote sensing: {2005: 2, 2009: 1, 2012: 1}
+eigenvalues and eigenfunctions: {2005: 1, 2013: 2, 2014: 1}
+packet transmission: {2005: 2, 2006: 2}
+runtime environment: {2005: 1, 2007: 1, 2011: 1, 2014: 1}
+radio transceiver: {2005: 2, 2016: 2}
+2.4 ghz ism band: {2005: 1, 2007: 1, 2016: 2}
+link quality: {2006: 1, 2009: 1, 2012: 1, 2014: 1}
+sensor locations: {2006: 2, 2008: 1, 2011: 1}
+link qualities: {2006: 2, 2011: 2}
+wireless link: {2006: 3, 2011: 1}
+boundary nodes: {2006: 3, 2008: 1}
+surveillance system: {2006: 2, 2007: 2}
+particle measurements: {2006: 1, 2007: 1, 2012: 1, 2017: 1}
+prior knowledge: {2006: 2, 2014: 2}
+asymptotic analysis: {2006: 1, 2007: 3}
+telecommunication congestion control: {2006: 1, 2009: 1, 2011: 1, 2016: 1}
+circuit noise: {2006: 4}
+hidden terminal problem: {2006: 2, 2012: 2}
+proposed framework: {2006: 1, 2012: 1, 2017: 2}
+direction of arrival estimation: {2006: 1, 2007: 1, 2009: 2}
+first step: {2006: 1, 2012: 2, 2016: 1}
+data flow computing: {2006: 1, 2007: 2, 2008: 1}
+energy consumption reduction: {2006: 1, 2012: 1, 2013: 1, 2017: 1}
+central node: {2006: 4}
+channel allocation: {2006: 2, 2007: 1, 2008: 1}
+mac layer: {2006: 1, 2008: 1, 2012: 2}
+system design: {2006: 1, 2008: 1, 2011: 1, 2013: 1}
+flash memories: {2006: 1, 2007: 1, 2009: 2}
+sensor platforms: {2006: 2, 2007: 1, 2008: 1}
+data retrieval: {2006: 1, 2008: 1, 2009: 1, 2011: 1}
+data streams: {2006: 1, 2007: 2, 2008: 1}
+radio interferometry: {2006: 2, 2009: 2}
+leap architecture: {2006: 3, 2007: 1}
+ultra wideband radar: {2006: 3, 2007: 1}
+design evaluation: {2006: 1, 2012: 2, 2013: 1}
+soil moisture: {2006: 2, 2012: 1, 2016: 1}
+message loss: {2007: 2, 2009: 2}
+control theory: {2007: 3, 2008: 1}
+ground truth: {2007: 1, 2011: 1, 2016: 2}
+cellular phones: {2007: 1, 2008: 1, 2009: 1, 2011: 1}
+additive noise: {2007: 4}
+linear dynamical system: {2007: 2, 2012: 2}
+heterogeneous devices: {2007: 1, 2009: 1, 2016: 2}
+operating system kernels: {2007: 2, 2008: 2}
+ti msp430: {2007: 4}
+implementation evaluation: {2007: 1, 2008: 2, 2014: 1}
+tinyos applications: {2007: 1, 2014: 3}
+energy monitoring: {2007: 1, 2008: 1, 2016: 2}
+significant impact: {2007: 1, 2008: 1, 2013: 1, 2014: 1}
+gas sensors: {2007: 1, 2009: 1, 2013: 1, 2016: 1}
+greedy algorithm: {2007: 3, 2012: 1}
+health monitoring: {2007: 1, 2008: 2, 2012: 1}
+collected data: {2007: 1, 2009: 2, 2017: 1}
+geophysical measurements: {2007: 1, 2011: 3}
+nonlinear dynamical systems: {2007: 2, 2013: 2}
+hybrid density: {2007: 4}
+predicted density: {2007: 4}
+system state: {2007: 2, 2011: 2}
+great interest: {2007: 1, 2008: 1, 2012: 1, 2014: 1}
+technological innovation: {2007: 1, 2009: 1, 2016: 1, 2017: 1}
+approximation error: {2007: 1, 2012: 1, 2017: 2}
+one application: {2007: 2, 2009: 1, 2017: 1}
+smart camera: {2007: 2, 2008: 2}
+wearable computers: {2007: 1, 2016: 1, 2017: 2}
+network congestion: {2007: 2, 2011: 2}
+static network: {2007: 1, 2008: 3}
+electromagnetic interference: {2007: 1, 2009: 2, 2017: 1}
+radio interference: {2007: 1, 2011: 2, 2017: 1}
+radiation detectors: {2007: 1, 2008: 1, 2011: 2}
+robot kinematics: {2007: 1, 2008: 1, 2012: 1, 2013: 1}
+data flow graphs: {2007: 3, 2011: 1}
+smart spaces: {2007: 2, 2016: 1, 2017: 1}
+multimodal sensors: {2007: 2, 2016: 2}
+real-time wireless sensor system: {2007: 2, 2008: 2}
+mesh networks: {2007: 1, 2008: 2, 2016: 1}
+power aware computing: {2007: 1, 2016: 3}
+leap2 platform: {2007: 2, 2008: 2}
+passive localization: {2008: 2, 2012: 1, 2016: 1}
+motion estimation: {2008: 1, 2011: 1, 2016: 1, 2017: 1}
+particle filter: {2008: 2, 2011: 1, 2013: 1}
+radio channel: {2008: 3, 2009: 1}
+novel algorithm: {2008: 1, 2011: 1, 2013: 1, 2017: 1}
+anomaly detection: {2008: 2, 2013: 2}
+dynamic loading: {2008: 2, 2011: 2}
+file systems: {2008: 1, 2009: 3}
+programming languages: {2008: 1, 2009: 1, 2011: 2}
+computer languages: {2008: 2, 2009: 1, 2011: 1}
+military operations: {2008: 4}
+industry monitoring: {2008: 4}
+image recognition: {2008: 2, 2016: 1, 2017: 1}
+community sensing: {2008: 1, 2011: 1, 2012: 1, 2013: 1}
+case study: {2008: 1, 2009: 1, 2013: 2}
+human activities: {2008: 1, 2016: 3}
+medical computing: {2008: 1, 2011: 1, 2014: 1, 2017: 1}
+optimization problems: {2009: 1, 2011: 2, 2017: 1}
+training data: {2009: 2, 2013: 1, 2017: 1}
+hierarchical routing: {2009: 4}
+proposed approach: {2009: 1, 2016: 1, 2017: 2}
+bearing estimation: {2009: 4}
+search engines: {2009: 2, 2011: 1, 2013: 1}
+permasense project: {2009: 4}
+health care: {2009: 2, 2016: 1, 2017: 1}
+accelerometer data: {2009: 1, 2012: 1, 2013: 2}
+decision support systems: {2009: 1, 2014: 3}
+set theory: {2009: 1, 2011: 3}
+programming abstractions: {2009: 2, 2011: 2}
+communication protocols: {2009: 2, 2011: 1, 2016: 1}
+wireless systems: {2009: 1, 2011: 1, 2014: 2}
+multipath routing: {2011: 4}
+road vehicles: {2011: 1, 2013: 1, 2016: 1, 2017: 1}
+physiological classifier: {2011: 4}
+field programmable gate arrays: {2011: 1, 2012: 3}
+heart rate: {2011: 2, 2013: 1, 2014: 1}
+commercial buildings: {2011: 3, 2012: 1}
+inertial navigation: {2011: 2, 2014: 1, 2016: 1}
+instruction sets: {2011: 2, 2013: 2}
+nonvolatile memory: {2011: 1, 2012: 1, 2016: 1, 2017: 1}
+human body: {2011: 1, 2016: 2, 2017: 1}
+ultrasonic transducers: {2011: 1, 2012: 1, 2014: 1, 2017: 1}
+data set: {2011: 1, 2012: 3}
+occupant comfort: {2012: 2, 2017: 2}
+environmental monitoring (geophysics): {2012: 2, 2013: 1, 2014: 1}
+atmospheric techniques: {2012: 1, 2014: 3}
+mav swarm simulator: {2012: 4}
+mobile sensing systems: {2012: 4}
+automated detection: {2012: 2, 2014: 2}
+smoking puffs: {2012: 4}
+water resources: {2012: 2, 2014: 2}
+endangered species: {2012: 4}
+triopusnet system: {2012: 4}
+telecommunication power supplies: {2012: 1, 2013: 1, 2014: 2}
+source separation: {2012: 2, 2013: 1, 2016: 1}
+decentralized protocol: {2012: 2, 2014: 2}
+adaptation models: {2012: 1, 2013: 1, 2016: 1, 2017: 1}
+signal classification: {2012: 2, 2013: 2}
+data fusion subsystem: {2012: 4}
+human motion: {2012: 2, 2013: 2}
+time-frequency analysis: {2013: 1, 2016: 1, 2017: 2}
+cloud search front-end: {2013: 4}
+similarity-based queries: {2013: 4}
+current load: {2013: 4}
+state-of-the-art solutions: {2013: 1, 2014: 3}
+existing solutions: {2013: 1, 2016: 3}
+android (operating system): {2014: 3, 2017: 1}
+wind forecasting: {2014: 4}
+data sources: {2014: 1, 2016: 3}
+opencv algorithms: {2014: 2, 2016: 2}
+light intensity: {2014: 4}
+different categories: {2014: 4}
+large amount: {2014: 1, 2016: 1, 2017: 2}
+energy margin: {2014: 4}
+power draw: {2014: 4}
+software accelerator: {2016: 4}
+urban environments: {2016: 4}
+ieee 802.11 standard: {2016: 4}
+body movements: {2016: 4}
+weather events: {2016: 4}
+industrial internet: {2016: 4}
+unmanned aerial vehicle: {2016: 2, 2017: 2}
+visible light: {2016: 4}
+mobile device: {2016: 3, 2017: 1}
+idle listening: {2016: 4}
+differential privacy: {2017: 4}
+minhash hierarchy: {2017: 4}
+density disparity: {2017: 4}
+two-way discovery: {2017: 4}
+3d imaging: {2017: 4}
+packet delivery ratio: {2017: 4}
+behavior change: {2017: 4}
+pattern classification: {2005: 1, 2011: 1, 2013: 1}
+new platform: {2005: 2, 2006: 1}
+transform coding: {2006: 2, 2007: 1}
+novel system: {2006: 1, 2013: 1, 2012: 1}
+original data: {2006: 2, 2012: 1}
+noise robustness: {2007: 1, 2005: 1, 2006: 1}
+singular value decomposition: {2007: 3}
+dense deployment: {2007: 1, 2004: 1, 2017: 1}
+simulated data: {2007: 1, 2011: 1, 2012: 1}
+extraterrestrial measurements: {2008: 1, 2006: 1, 2007: 1}
+k sensors: {2008: 3}
+two sensors: {2008: 1, 2007: 1, 2013: 1}
+geographical locations: {2009: 2, 2007: 1}
+road transportation: {2009: 3}
+greedy routing: {2009: 1, 2011: 2}
+virtual coordinates: {2009: 1, 2007: 1, 2011: 1}
+network stability: {2011: 3}
+frequency 2.4 ghz: {2011: 1, 2007: 1, 2013: 1}
+fire monitoring: {2012: 2, 2005: 1}
+sensorfly nodes: {2012: 3}
+particle filtering (numerical methods): {2013: 1, 2007: 1, 2016: 1}
+disaster response: {2013: 1, 2009: 2}
+ads-b messages: {2014: 3}
+central europe: {2014: 3}
+low-cost hardware: {2014: 2, 2009: 1}
+natural timestamps: {2017: 3}
+design time: {2004: 2, 2009: 1}
+several factors: {2004: 1, 2005: 1, 2016: 1}
+theoretical analysis: {2004: 1, 2005: 1, 2008: 1}
+embedded software: {2004: 1, 2005: 1, 2014: 1}
+reconfigurable architectures: {2004: 1, 2007: 2}
+software systems: {2004: 1, 2009: 2}
+data recovery: {2004: 1, 2009: 1, 2017: 1}
+field complexity: {2004: 2, 2005: 1}
+dynamic scheduling: {2004: 2, 2009: 1}
+many nodes: {2004: 1, 2006: 1, 2011: 1}
+minimum spanning tree: {2004: 1, 2008: 2}
+additional hardware: {2004: 1, 2013: 1, 2014: 1}
+multihop network: {2004: 2, 2011: 1}
+energy saving: {2004: 1, 2009: 1, 2013: 1}
+rate distortion theory: {2004: 1, 2005: 1, 2006: 1}
+temporal prediction: {2004: 3}
+information analysis: {2004: 2, 2005: 1}
+certain threshold: {2004: 2, 2005: 1}
+underlying physical reality: {2004: 3}
+scaling laws: {2004: 3}
+second contribution: {2004: 1, 2005: 1, 2017: 1}
+total power: {2004: 1, 2005: 1, 2008: 1}
+distributed optimization: {2004: 1, 2011: 2}
+raw data: {2004: 2, 2013: 1}
+estimation problems: {2004: 3}
+network domain: {2004: 3}
+temporal variation: {2004: 2, 2016: 1}
+transmission powers: {2004: 2, 2013: 1}
+mobility pattern: {2004: 2, 2008: 1}
+multiple transmissions: {2004: 2, 2009: 1}
+n nodes: {2004: 1, 2005: 1, 2008: 1}
+communication constraints: {2004: 2, 2005: 1}
+face detection: {2004: 1, 2007: 2}
+information systems: {2004: 3}
+local decisions: {2004: 2, 2008: 1}
+neighboring sensors: {2004: 2, 2008: 1}
+probabilistic techniques: {2004: 2, 2007: 1}
+markov chain: {2004: 3}
+random field: {2004: 3}
+one sensor: {2004: 3}
+coding scheme: {2004: 2, 2006: 1}
+computational geometry: {2004: 1, 2005: 1, 2007: 1}
+link failures: {2004: 1, 2007: 1, 2012: 1}
+particle filtering: {2004: 2, 2016: 1}
+statistical models: {2004: 2, 2011: 1}
+distance measurements: {2004: 2, 2008: 1}
+network-wide cooperation: {2004: 3}
+transport traffic: {2004: 3}
+regression analysis: {2004: 1, 2012: 1, 2017: 1}
+model parameters: {2004: 2, 2011: 1}
+weighted sum: {2004: 1, 2008: 2}
+mobile ad hoc networks: {2004: 2, 2017: 1}
+multicast communication: {2004: 2, 2008: 1}
+roaming hub: {2004: 3}
+acoustic testing: {2004: 1, 2006: 1, 2007: 1}
+physical field: {2004: 2, 2005: 1}
+spatial bit rate: {2004: 3}
+maximum-likelihood estimation: {2004: 2, 2006: 1}
+network inference: {2004: 3}
+loss rates: {2004: 2, 2009: 1}
+wireless ad hoc networks: {2004: 3}
+international collaboration: {2004: 1, 2008: 2}
+state information: {2004: 2, 2006: 1}
+routing information: {2004: 2, 2008: 1}
+random walk: {2004: 2, 2006: 1}
+environmental changes: {2004: 2, 2016: 1}
+centralized algorithm: {2004: 2, 2009: 1}
+physical phenomena: {2004: 2, 2007: 1}
+multiple interacting targets: {2004: 3}
+state-space methods: {2004: 2, 2005: 1}
+radar imaging: {2004: 2, 2007: 1}
+linear systems: {2004: 1, 2011: 1, 2012: 1}
+mean square error methods: {2004: 1, 2005: 1, 2007: 1}
+joint optimization: {2004: 2, 2008: 1}
+transmission structure: {2004: 2, 2005: 1}
+shortest path trees: {2004: 2, 2008: 1}
+optimal placement: {2004: 1, 2017: 2}
+energy resolution: {2004: 1, 2007: 1, 2008: 1}
+adaptive sampling: {2004: 3}
+spatial resolution: {2004: 1, 2006: 1, 2007: 1}
+initial estimate: {2004: 3}
+approximation ratio: {2004: 2, 2006: 1}
+partitioning algorithms: {2004: 1, 2005: 1, 2009: 1}
+optimum solution: {2004: 2, 2006: 1}
+three algorithms: {2004: 1, 2005: 1, 2007: 1}
+neighboring nodes: {2004: 2, 2013: 1}
+novel method: {2004: 1, 2008: 1, 2011: 1}
+proposed method: {2004: 1, 2011: 1, 2016: 1}
+network coverage: {2004: 1, 2007: 1, 2009: 1}
+sleep state: {2004: 1, 2006: 1, 2016: 1}
+low duty cycles: {2004: 1, 2008: 2}
+computer errors: {2004: 1, 2005: 1, 2006: 1}
+radio range: {2004: 2, 2007: 1}
+multiple sensor nodes: {2004: 2, 2008: 1}
+current state: {2004: 2, 2011: 1}
+filtering theory: {2004: 1, 2006: 1, 2009: 1}
+second algorithm: {2004: 1, 2005: 1, 2008: 1}
+real world sensor networks: {2005: 1, 2012: 2}
+spatial distribution: {2005: 3}
+main contribution: {2005: 2, 2007: 1}
+environmental conditions: {2005: 1, 2008: 1, 2011: 1}
+pulse width modulation: {2005: 1, 2014: 2}
+received signal strength measurement: {2005: 1, 2011: 1, 2012: 1}
+signal representation: {2005: 1, 2006: 1, 2011: 1}
+mechanical sensors: {2005: 1, 2006: 1, 2016: 1}
+adaptive systems: {2005: 1, 2006: 1, 2017: 1}
+convergence of numerical methods: {2005: 2, 2006: 1}
+robust localization: {2005: 1, 2011: 1, 2017: 1}
+particle computer system: {2005: 3}
+propagation losses: {2005: 1, 2008: 1, 2009: 1}
+queueing theory: {2005: 1, 2008: 1, 2011: 1}
+decentralised control: {2005: 2, 2016: 1}
+fdr concept: {2005: 3}
+adaptive control: {2005: 1, 2006: 1, 2011: 1}
+false alarms: {2005: 1, 2016: 2}
+wired network: {2005: 1, 2006: 2}
+simulation models: {2005: 1, 2008: 2}
+two methods: {2005: 2, 2006: 1}
+inference accuracies: {2005: 1, 2016: 2}
+local weighted least-squares estimate: {2005: 2, 2006: 1}
+weighted average: {2005: 1, 2006: 1, 2007: 1}
+data structure: {2005: 3}
+human activity: {2005: 1, 2006: 1, 2014: 1}
+acoustic transducers: {2005: 1, 2007: 1, 2016: 1}
+1-bit information: {2005: 2, 2006: 1}
+antenna measurements: {2005: 1, 2009: 1, 2014: 1}
+noisy disk: {2005: 3}
+ultrasonic variables measurement: {2005: 1, 2011: 1, 2017: 1}
+real-world deployment: {2005: 1, 2008: 1, 2011: 1}
+information sharing: {2005: 1, 2014: 2}
+finite state machines: {2005: 2, 2008: 1}
+program state: {2005: 2, 2016: 1}
+real-time system: {2005: 1, 2008: 1, 2016: 1}
+software implementation: {2005: 2, 2006: 1}
+past decade: {2005: 1, 2012: 1, 2017: 1}
+significant challenge: {2005: 1, 2014: 1, 2016: 1}
+25 nodes: {2005: 1, 2006: 1, 2007: 1}
+loss measurement: {2005: 1, 2006: 1, 2009: 1}
+optimal transmission structure: {2005: 3}
+mica2 mote: {2005: 3}
+' locations: {2005: 2, 2007: 1}
+hostile environments: {2005: 3}
+proposed methods: {2005: 1, 2007: 1, 2016: 1}
+bandwidth constraints: {2005: 1, 2007: 1, 2017: 1}
+duty cycle: {2005: 1, 2008: 1, 2012: 1}
+vehicle dynamics: {2005: 1, 2006: 1, 2017: 1}
+collaborative work: {2005: 1, 2007: 1, 2008: 1}
+optimal choice: {2005: 1, 2012: 1, 2016: 1}
+noise level: {2005: 1, 2014: 2}
+random codes: {2005: 1, 2006: 1, 2008: 1}
+distributed detection: {2005: 1, 2011: 2}
+sustainable operation: {2005: 2, 2006: 1}
+environmental energy: {2005: 3}
+energy usage: {2005: 1, 2008: 1, 2011: 1}
+force sensors: {2005: 1, 2016: 2}
+large-scale wireless sensor network: {2005: 1, 2007: 1, 2008: 1}
+individual nodes: {2005: 1, 2007: 1, 2017: 1}
+read-write memory: {2005: 1, 2006: 1, 2009: 1}
+mobile user: {2005: 2, 2007: 1}
+every minute: {2005: 1, 2012: 1, 2017: 1}
+empirical results: {2005: 1, 2011: 1, 2014: 1}
+large networks: {2005: 1, 2007: 1, 2012: 1}
+challenging task: {2005: 1, 2011: 1, 2013: 1}
+spatial distortion: {2005: 3}
+northern australia: {2005: 3}
+wireless acoustic sensor network: {2005: 1, 2012: 2}
+'s position: {2005: 1, 2006: 1, 2016: 1}
+modular architecture: {2005: 1, 2007: 1, 2011: 1}
+efficient algorithms: {2005: 1, 2007: 1, 2017: 1}
+statistical method: {2005: 1, 2014: 2}
+intelligent systems: {2005: 1, 2007: 2}
+phase measurement: {2005: 1, 2006: 1, 2016: 1}
+node synchronization: {2005: 3}
+estimation accuracy: {2005: 1, 2013: 2}
+decentralized mobile sensor network: {2005: 3}
+data sink: {2005: 1, 2007: 2}
+joint statistics: {2005: 3}
+enough information: {2005: 1, 2006: 1, 2007: 1}
+convolutional codes: {2005: 1, 2006: 2}
+modulation coding: {2005: 2, 2006: 1}
+linear program: {2005: 3}
+communication scheme: {2005: 1, 2014: 2}
+system monitoring: {2005: 2, 2008: 1}
+data security: {2005: 1, 2007: 1, 2009: 1}
+summary form: {2005: 2, 2006: 1}
+large scale sensor networks: {2005: 1, 2012: 2}
+detection delay: {2005: 2, 2008: 1}
+'s state: {2005: 1, 2006: 1, 2017: 1}
+supermodular functions: {2006: 3}
+wireless footprint: {2006: 3}
+/sub > & lt: {2006: 3}
+camera networks: {2006: 1, 2009: 1, 2013: 1}
+real-world applications: {2006: 1, 2007: 1, 2016: 1}
+real world: {2006: 1, 2009: 1, 2016: 1}
+solid modeling: {2006: 1, 2008: 1, 2017: 1}
+gossip algorithms: {2006: 3}
+distributed consensus: {2006: 1, 2007: 2}
+significant attention: {2006: 1, 2007: 1, 2011: 1}
+sensor network technology: {2006: 3}
+large area: {2006: 1, 2008: 1, 2017: 1}
+information routing: {2006: 2, 2012: 1}
+antenna array: {2006: 2, 2009: 1}
+limited number: {2006: 1, 2007: 1, 2014: 1}
+slip surface: {2006: 3}
+sector coverage: {2006: 3}
+sensing area: {2006: 1, 2012: 1, 2017: 1}
+cooperative communication: {2006: 1, 2012: 1, 2017: 1}
+physical layer: {2006: 1, 2009: 1, 2016: 1}
+error propagation: {2006: 3}
+error rate: {2006: 2, 2016: 1}
+recent results: {2006: 1, 2009: 1, 2017: 1}
+information filtering: {2006: 1, 2009: 1, 2014: 1}
+small memory footprint: {2006: 1, 2011: 1, 2014: 1}
+new framework: {2006: 1, 2012: 1, 2016: 1}
+stationary sensor networks: {2006: 3}
+aperture uncertainty: {2006: 3}
+pulse modulation: {2006: 1, 2008: 1, 2009: 1}
+comparator ambiguity: {2006: 3}
+quantization error: {2006: 3}
+protocol performance: {2006: 1, 2012: 1, 2014: 1}
+power management: {2006: 1, 2007: 1, 2012: 1}
+maximum lifetime: {2006: 1, 2017: 2}
+carrier sense multiple access: {2006: 1, 2014: 1, 2017: 1}
+packet collisions: {2006: 1, 2017: 2}
+idle channel detection delay: {2006: 3}
+network measurement: {2006: 1, 2016: 2}
+aml method: {2006: 2, 2013: 1}
+biological techniques: {2006: 1, 2012: 1, 2017: 1}
+distributed scheme: {2006: 1, 2011: 1, 2012: 1}
+file organisation: {2006: 2, 2009: 1}
+nlos environment: {2006: 1, 2017: 2}
+sensor localization: {2006: 1, 2007: 1, 2011: 1}
+data representation: {2006: 2, 2012: 1}
+first message: {2006: 2, 2008: 1}
+link optimization: {2006: 1, 2007: 2}
+multipath fading: {2006: 1, 2007: 2}
+rayleigh channels: {2006: 1, 2007: 2}
+fading measurement: {2006: 2, 2007: 1}
+wireless sensor node: {2006: 3}
+semantic meaning: {2006: 2, 2013: 1}
+data storage: {2006: 2, 2013: 1}
+solar power generation: {2006: 1, 2014: 2}
+solar panels: {2006: 1, 2008: 2}
+fluorescence telescopes: {2006: 3}
+structure monitoring: {2006: 2, 2007: 1}
+software testing: {2006: 2, 2007: 1}
+software component: {2006: 1, 2008: 2}
+main challenge: {2006: 1, 2011: 1, 2012: 1}
+data visualisation: {2006: 1, 2011: 2}
+networked sensors: {2006: 1, 2007: 1, 2012: 1}
+application developers: {2006: 1, 2007: 1, 2008: 1}
+image processing: {2006: 1, 2014: 1, 2016: 1}
+fine-grained energy dissipation monitoring: {2006: 2, 2007: 1}
+embedded wireless networked sensor: {2006: 1, 2007: 2}
+new platforms: {2006: 1, 2007: 1, 2012: 1}
+image classification: {2006: 1, 2014: 1, 2016: 1}
+image representation: {2006: 1, 2014: 2}
+context modeling: {2006: 1, 2007: 1, 2013: 1}
+classification algorithm: {2006: 1, 2013: 2}
+cots components: {2006: 1, 2007: 1, 2009: 1}
+radar mote: {2006: 3}
+ultra wideband: {2006: 1, 2009: 2}
+structural engineering: {2006: 1, 2007: 1, 2016: 1}
+structural engineers: {2006: 3}
+1 %: {2007: 1, 2008: 2}
+distributed signal processing: {2007: 2, 2008: 1}
+aml-based source localization algorithm: {2007: 3}
+biomedical signal processing: {2007: 2, 2008: 1}
+field biologists: {2007: 3}
+animal sounds: {2007: 3}
+recent development: {2007: 2, 2011: 1}
+bio-acoustic field research: {2007: 3}
+two orders: {2007: 2, 2009: 1}
+likelihood function: {2007: 1, 2017: 2}
+important application: {2007: 2, 2012: 1}
+increasing number: {2007: 1, 2009: 1, 2011: 1}
+linear iteration: {2007: 3}
+weight matrix: {2007: 3}
+real networks: {2007: 1, 2009: 2}
+distributed nature: {2007: 2, 2012: 1}
+multithreaded programming interface: {2007: 3}
+programming interface: {2007: 1, 2009: 2}
+computer bugs: {2007: 1, 2008: 1, 2011: 1}
+location service: {2007: 3}
+beacon vector routing: {2007: 1, 2011: 2}
+early stages: {2007: 1, 2012: 2}
+power metering: {2007: 2, 2014: 1}
+temporal resolution: {2007: 2, 2014: 1}
+diverse set: {2007: 3}
+image communication: {2007: 1, 2008: 1, 2009: 1}
+measurement by laser beam: {2007: 1, 2009: 1, 2013: 1}
+utility function: {2007: 1, 2014: 2}
+poles and towers: {2007: 1, 2009: 1, 2016: 1}
+nonlinear prediction: {2007: 3}
+current density: {2007: 3}
+wireless localization: {2007: 1, 2012: 2}
+self-organizing maps: {2007: 3}
+many wireless sensor network applications: {2007: 1, 2008: 1, 2011: 1}
+neyman-pearson criterion: {2007: 3}
+much attention: {2007: 1, 2012: 1, 2016: 1}
+missing probability: {2007: 3}
+sparse matrices: {2007: 1, 2009: 1, 2012: 1}
+hardware-software technique: {2007: 3}
+high resolution: {2007: 3}
+image resolution: {2007: 1, 2008: 1, 2016: 1}
+multiple people: {2007: 1, 2012: 1, 2013: 1}
+database systems: {2007: 3}
+two nodes: {2007: 1, 2011: 2}
+duty-cycled nodes: {2007: 3}
+communication link: {2007: 3}
+spectral multiplexing: {2007: 3}
+camera network: {2007: 1, 2011: 1, 2017: 1}
+passive infrared sensors: {2007: 2, 2013: 1}
+given time: {2007: 1, 2013: 1, 2014: 1}
+assisted living: {2007: 1, 2008: 2}
+multimodal applications: {2007: 3}
+sensor network data transport system: {2007: 3}
+nist smart data flow system ii: {2007: 3}
+middleware layer: {2007: 3}
+speaker recognition: {2007: 1, 2011: 1, 2017: 1}
+rfid data: {2007: 1, 2017: 2}
+wireless camera network: {2007: 3}
+transport protocols: {2007: 1, 2009: 1, 2016: 1}
+relevant information: {2007: 1, 2013: 2}
+on-board sensors: {2007: 1, 2014: 2}
+sun spot: {2007: 3}
+pneumatic testbed: {2007: 3}
+industrial applications: {2007: 1, 2009: 1, 2016: 1}
+energy profiling: {2007: 1, 2017: 2}
+sparse sensor networks: {2008: 3}
+motion data: {2008: 3}
+delay tolerant protocol: {2008: 3}
+high performance: {2008: 3}
+802.15.4 radio: {2008: 1, 2009: 1, 2014: 1}
+load management: {2008: 1, 2011: 1, 2013: 1}
+multiple sensor: {2008: 1, 2013: 2}
+routing tables: {2008: 1, 2009: 2}
+inter-node data correlation: {2008: 3}
+mobile networks: {2008: 2, 2016: 1}
+boundary recognition: {2008: 3}
+cryptographic protocols: {2008: 1, 2009: 2}
+automatic control: {2008: 1, 2009: 2}
+program diagnostics: {2008: 1, 2013: 1, 2014: 1}
+telosb nodes: {2008: 1, 2014: 2}
+ieee 802.15.4 standard: {2008: 2, 2009: 1}
+image transmission: {2008: 1, 2009: 2}
+geophysical equipment: {2008: 1, 2013: 2}
+proposed design: {2008: 1, 2016: 2}
+traffic bursts: {2008: 1, 2012: 2}
+wireless sensor network nodes: {2008: 3}
+60 %: {2008: 1, 2011: 1, 2017: 1}
+object-oriented programming: {2008: 2, 2011: 1}
+integrated circuit design: {2008: 3}
+'s nodes: {2008: 3}
+hazardous environments: {2008: 3}
+over-the-air programming: {2008: 3}
+rateless codes: {2008: 3}
+tmote sky: {2008: 1, 2009: 2}
+recognition accuracy: {2008: 1, 2009: 1, 2016: 1}
+road traffic: {2008: 2, 2009: 1}
+sharing data: {2008: 3}
+traffic monitoring: {2008: 1, 2011: 1, 2013: 1}
+gps devices: {2008: 1, 2012: 2}
+communication channel: {2008: 2, 2016: 1}
+bayesian framework: {2008: 2, 2009: 1}
+biological system modeling: {2008: 1, 2011: 1, 2013: 1}
+cellular automata: {2008: 2, 2014: 1}
+air pollution measurement: {2008: 1, 2013: 1, 2014: 1}
+data points: {2008: 1, 2011: 2}
+behavioural sciences computing: {2008: 1, 2017: 2}
+image registration: {2008: 3}
+body area networks: {2008: 2, 2009: 1}
+dynamic nature: {2008: 1, 2009: 1, 2011: 1}
+biomedical equipment: {2008: 1, 2014: 2}
+power system measurement: {2008: 1, 2014: 1, 2016: 1}
+social sciences computing: {2008: 1, 2012: 1, 2017: 1}
+sensible doctor: {2008: 3}
+dialog codes: {2009: 3}
+transient-based identification: {2009: 3}
+event-triggered algorithm: {2009: 3}
+data integrity: {2009: 1, 2011: 2}
+mobile sink: {2009: 1, 2011: 1, 2013: 1}
+mobile node: {2009: 1, 2014: 2}
+sensor network simulator: {2009: 3}
+two problems: {2009: 1, 2013: 1, 2017: 1}
+camera network coverage: {2009: 3}
+localization problem: {2009: 1, 2017: 2}
+sensor ranking: {2009: 3}
+nonlinear equations: {2009: 3}
+statistical jammer: {2009: 3}
+hardware design: {2009: 2, 2011: 1}
+intelligent transportation systems: {2009: 2, 2013: 1}
+heuristic algorithm: {2009: 2, 2012: 1}
+cc2420 radios: {2009: 1, 2013: 2}
+telos motes: {2009: 1, 2011: 2}
+learning method: {2009: 2, 2012: 1}
+different sensors: {2009: 1, 2013: 1, 2017: 1}
+91 %: {2009: 1, 2012: 1, 2016: 1}
+medical signal detection: {2009: 1, 2013: 1, 2014: 1}
+radiowave propagation: {2009: 1, 2011: 2}
+gray region: {2009: 3}
+industrial control: {2009: 1, 2014: 1, 2016: 1}
+wireless technologies: {2009: 1, 2011: 1, 2016: 1}
+intelligent transportation: {2009: 1, 2013: 2}
+overall system architecture: {2009: 2, 2013: 1}
+speech processing: {2009: 1, 2014: 1, 2017: 1}
+emerging class: {2009: 1, 2012: 2}
+large scale: {2009: 1, 2012: 1, 2014: 1}
+usb accelerometers: {2011: 3}
+cloud fusion center: {2011: 3}
+map-based interface: {2011: 3}
+android cell phones: {2011: 3}
+heterogeneous community network: {2011: 3}
+community seismic network: {2011: 3}
+cellular radio: {2011: 1, 2012: 1, 2014: 1}
+resilient routing: {2011: 3}
+mo &: {2011: 3}
+# x0308: {2011: 3}
+pavement engineering: {2011: 1, 2013: 2}
+vibration sensors: {2011: 2, 2017: 1}
+physiological sensors: {2011: 1, 2016: 2}
+physiological measurements: {2011: 1, 2014: 2}
+perceived stress model: {2011: 3}
+long periods: {2011: 1, 2016: 1, 2017: 1}
+wireless nodes: {2011: 1, 2012: 2}
+wireless control network: {2011: 1, 2012: 2}
+program testing: {2011: 3}
+aerospace control: {2011: 1, 2012: 1, 2017: 1}
+demo abstract: {2011: 2, 2013: 1}
+scaled model: {2011: 2, 2013: 1}
+ventilation air conditioning: {2011: 1, 2012: 1, 2013: 1}
+quality of information: {2011: 3}
+control engineering computing: {2011: 1, 2014: 1, 2017: 1}
+situation awareness: {2011: 2, 2017: 1}
+rescue center: {2011: 3}
+decision trees: {2011: 1, 2013: 2}
+ie ratio: {2011: 3}
+web application: {2011: 1, 2012: 2}
+telosb platform: {2011: 1, 2013: 2}
+parallel algorithm: {2011: 3}
+congestion mitigation: {2011: 3}
+external interference: {2011: 2, 2016: 1}
+preliminary experiments: {2011: 1, 2012: 1, 2014: 1}
+power generation: {2011: 1, 2014: 1, 2016: 1}
+wsn deployment: {2011: 1, 2012: 1, 2013: 1}
+human motion capture: {2011: 2, 2012: 1}
+universal time signal receiver: {2011: 3}
+gps receivers: {2011: 2, 2016: 1}
+high cost: {2011: 1, 2014: 1, 2016: 1}
+data quality: {2011: 2, 2013: 1}
+received signal strength indicator: {2011: 1, 2013: 2}
+logistic regression: {2011: 3}
+physical layer information: {2011: 2, 2016: 1}
+link estimation: {2011: 1, 2016: 2}
+multiple services: {2011: 2, 2013: 1}
+human-generated sounds: {2011: 3}
+rss measurement: {2011: 1, 2012: 1, 2013: 1}
+ports (computers): {2012: 1, 2013: 1, 2014: 1}
+growing interest: {2012: 2, 2016: 1}
+3-axis accelerometer: {2012: 2, 2017: 1}
+biomedical telemetry: {2012: 1, 2013: 2}
+great potential: {2012: 2, 2016: 1}
+atmospheric measuring apparatus: {2012: 1, 2014: 2}
+large-scale system design: {2012: 3}
+expected values: {2012: 3}
+networked devices: {2012: 1, 2017: 2}
+daylight harvesting: {2012: 3}
+approximation methods: {2012: 2, 2014: 1}
+traffic engineering computing: {2012: 1, 2013: 1, 2017: 1}
+smoking session: {2012: 3}
+respiration measurements: {2012: 3}
+magnetic fields: {2012: 2, 2014: 1}
+battery-depleted node: {2012: 3}
+& # x2113: {2012: 2, 2014: 1}
+data loss: {2012: 2, 2013: 1}
+end-to-end latency: {2012: 2, 2016: 1}
+discriminant analysis: {2012: 3}
+truth discovery: {2012: 2, 2016: 1}
+expectation maximization: {2012: 1, 2014: 1, 2017: 1}
+human subjects: {2012: 1, 2013: 1, 2016: 1}
+channel hopping: {2012: 3}
+heterogeneous applications: {2012: 3}
+mac protocols: {2012: 1, 2014: 2}
+lighting intensity: {2012: 3}
+centralized coordination: {2012: 2, 2014: 1}
+awake-state nodes: {2012: 1, 2014: 2}
+muscle activity recognition system: {2012: 2, 2013: 1}
+idle period: {2012: 3}
+computationally intensive: {2012: 2, 2014: 1}
+animation subsystem: {2012: 3}
+intermediate nodes: {2012: 3}
+mobile health: {2013: 3}
+wireless mesh network: {2013: 2, 2017: 1}
+overhead lights: {2013: 1, 2016: 2}
+analog signal processing: {2013: 3}
+backbone network: {2013: 1, 2016: 2}
+image retrieval: {2013: 3}
+shunt resistor: {2013: 3}
+power line: {2013: 3}
+aggregation scope: {2013: 3}
+acceleration measurement: {2013: 1, 2016: 2}
+decision tree: {2013: 3}
+conditional random field: {2013: 2, 2014: 1}
+localization techniques: {2013: 1, 2016: 2}
+daily living: {2013: 1, 2014: 1, 2017: 1}
+market research: {2013: 1, 2014: 2}
+voltage measurement: {2013: 2, 2017: 1}
+place name: {2013: 3}
+crowdsensing data: {2013: 3}
+wear model: {2013: 3}
+human tracking: {2013: 3}
+robot vision: {2013: 1, 2017: 2}
+covariance matrices: {2013: 1, 2016: 2}
+single flow: {2014: 3}
+received signal strength measurements: {2014: 2, 2016: 1}
+parasympathetic nervous system: {2014: 3}
+testbed infrastructure: {2014: 1, 2016: 2}
+temperature variations: {2014: 3}
+static analysis: {2014: 3}
+location-aware applications: {2014: 2, 2016: 1}
+computational fluid dynamics: {2014: 3}
+water quality: {2014: 3}
+wind sensors: {2014: 3}
+neighborhood cardinality: {2014: 3}
+cloudy days: {2014: 3}
+optimised projection matrix: {2014: 3}
+localization landmarks: {2014: 3}
+visual light communication: {2014: 3}
+optical communication: {2014: 3}
+single collision domain: {2014: 3}
+ultrasonic rangefinder: {2014: 3}
+transferring scheme: {2014: 3}
+indoor air pollution: {2014: 2, 2017: 1}
+localization phase: {2014: 3}
+hardware components: {2014: 1, 2017: 2}
+information funnel: {2014: 3}
+passive rfid: {2014: 1, 2017: 2}
+network links: {2014: 1, 2017: 2}
+demonstration abstract: {2014: 3}
+different users: {2014: 1, 2016: 2}
+particulate matter: {2014: 3}
+positioning system: {2014: 2, 2016: 1}
+data analytics: {2014: 1, 2016: 2}
+blood pressure: {2014: 3}
+wearable system: {2016: 3}
+ieee 802.15 standard: {2016: 3}
+cross-technology interference: {2016: 3}
+mobile apps: {2016: 3}
+iot application development: {2016: 3}
+free-space optical communication: {2016: 3}
+lower-frequency movements: {2016: 3}
+heartbeat monitoring: {2016: 3}
+smart grid networks: {2016: 3}
+'s movements: {2016: 1, 2017: 2}
+job shop scheduling: {2016: 1, 2017: 2}
+prolific information: {2016: 3}
+wearable technologies: {2016: 1, 2017: 2}
+measurement tasks: {2016: 3}
+hafnium compounds: {2017: 3}
+mobile entities: {2017: 3}
+proposed protocol: {2017: 3}
+bluetooth low energy: {2017: 3}
+video signal processing: {2017: 3}
+non-acoustic sensors: {2017: 3}
+ubiquitous surfaces: {2017: 3}
+collective detection: {2017: 3}
+control center: {2017: 3}
+emr sensors: {2017: 3}
+digital signage: {2017: 3}
+iasa system: {2017: 3}
+wireless transmitter: {2017: 3}
+oscillation detector: {2017: 3}
+cane-toad calls: {2017: 3}
+commercial space: {2017: 3}
+underwater wireless sensor networks: {2017: 3}
+direct path: {2017: 3}

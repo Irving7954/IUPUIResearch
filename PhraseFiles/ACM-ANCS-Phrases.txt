@@ -1,0 +1,205 @@
+204
+network components: {2005: 4, 2006: 4, 2010: 7, 2012: 8, 2014: 7, 2007: 5, 2008: 5, 2009: 8, 2016: 4}
+computer systems organization: {2005: 5, 2006: 5, 2007: 4, 2008: 8, 2010: 6, 2009: 6, 2012: 5, 2014: 3, 2016: 4}
+intermediate nodes: {2005: 4, 2006: 4, 2010: 7, 2007: 5, 2008: 2, 2009: 8, 2012: 5, 2014: 6, 2016: 3}
+network types: {2012: 7, 2014: 8, 2005: 2, 2006: 3, 2007: 5, 2008: 4, 2010: 3, 2009: 1, 2016: 2}
+network architectures: {2014: 6, 2005: 1, 2006: 2, 2007: 1, 2008: 3, 2010: 3, 2009: 1, 2012: 9, 2016: 9}
+network security: {2016: 2, 2005: 2, 2006: 5, 2007: 5, 2008: 3, 2010: 4, 2009: 8, 2012: 1, 2014: 3}
+security and privacy: {2016: 5, 2005: 1, 2006: 4, 2007: 4, 2008: 2, 2010: 4, 2009: 7, 2012: 1, 2014: 4}
+network services: {2008: 5, 2005: 1, 2006: 2, 2007: 4, 2010: 3, 2009: 1, 2012: 4, 2014: 5, 2016: 4}
+network protocols: {2005: 2, 2006: 3, 2007: 3, 2008: 2, 2010: 2, 2009: 3, 2012: 2, 2014: 5, 2016: 3}
+communication hardware: {2005: 3, 2016: 3, 2006: 2, 2008: 2, 2010: 3, 2009: 2, 2012: 4, 2014: 4}
+interfaces and storage: {2005: 3, 2016: 3, 2006: 2, 2008: 2, 2010: 3, 2009: 2, 2012: 4, 2014: 4}
+parallel architectures: {2006: 4, 2010: 5, 2007: 2, 2008: 5, 2009: 4, 2016: 3}
+regular expressions: {2007: 5, 2006: 7, 2010: 4, 2009: 2, 2012: 1, 2014: 3}
+software and its engineering: {2012: 1, 2014: 4, 2005: 4, 2007: 2, 2008: 2, 2009: 2, 2016: 4}
+packet-switching networks: {2005: 2, 2006: 2, 2007: 5, 2008: 1, 2010: 2, 2012: 2, 2014: 3}
+network processors: {2005: 5, 2006: 3, 2007: 4, 2008: 2, 2010: 1, 2009: 2}
+software organization and properties: {2012: 1, 2014: 3, 2005: 4, 2007: 1, 2008: 1, 2009: 2, 2016: 3}
+network monitoring: {2005: 1, 2006: 3, 2007: 2, 2008: 1, 2009: 1, 2012: 3, 2014: 3, 2016: 1}
+embedded and cyber-physical systems: {2007: 1, 2008: 2, 2005: 3, 2006: 1, 2010: 2, 2009: 1, 2012: 1, 2014: 2, 2016: 1}
+packet classification: {2007: 3, 2008: 1, 2010: 3, 2009: 4, 2012: 1, 2016: 2}
+general and reference: {2005: 1, 2006: 1, 2007: 3, 2008: 2, 2010: 3, 2014: 1, 2016: 2}
+real-time systems: {2007: 1, 2008: 2, 2005: 2, 2006: 1, 2010: 2, 2009: 1, 2012: 1, 2014: 2}
+simulation results: {2010: 3, 2005: 2, 2007: 1, 2008: 1, 2009: 2, 2012: 1, 2014: 1, 2016: 1}
+operating systems: {2012: 2, 2005: 4, 2006: 1, 2007: 1, 2008: 1, 2009: 1, 2014: 1, 2016: 1}
+contextual software domains: {2012: 1, 2005: 4, 2007: 1, 2008: 1, 2009: 1, 2014: 1, 2016: 3}
+experimental results: {2005: 1, 2006: 1, 2007: 2, 2010: 1, 2009: 2, 2014: 3, 2016: 1}
+cross-computing tools and techniques: {2005: 1, 2007: 3, 2008: 2, 2010: 3, 2014: 1, 2016: 1}
+regular expression: {2006: 1, 2007: 4, 2008: 1, 2010: 3, 2009: 1, 2014: 1}
+integrated circuits: {2006: 1, 2016: 2, 2005: 1, 2007: 1, 2010: 1, 2009: 1, 2012: 1, 2014: 2}
+power consumption: {2005: 1, 2006: 3, 2010: 3, 2009: 1, 2012: 1, 2014: 1}
+high throughput: {2005: 1, 2006: 2, 2007: 1, 2010: 1, 2009: 3, 2012: 2}
+network traffic: {2006: 2, 2007: 1, 2008: 1, 2009: 3, 2014: 2}
+packet processing: {2007: 1, 2008: 3, 2010: 1, 2009: 1, 2012: 1, 2014: 2}
+network properties: {2007: 1, 2008: 2, 2012: 2, 2014: 2, 2016: 2}
+deep packet inspection: {2007: 2, 2006: 1, 2008: 1, 2010: 2, 2012: 1, 2016: 1}
+hardware validation: {2005: 4, 2008: 2, 2010: 1, 2016: 1}
+large number: {2005: 1, 2007: 2, 2008: 2, 2010: 1, 2009: 1, 2014: 1}
+network management: {2005: 1, 2007: 1, 2010: 1, 2012: 3, 2014: 2}
+multiple data: {2006: 2, 2008: 2, 2010: 2, 2009: 1, 2016: 1}
+proposed algorithm: {2007: 2, 2009: 1, 2012: 2, 2016: 3}
+network performance evaluation: {2008: 1, 2016: 7}
+public internet: {2012: 2, 2014: 2, 2006: 1, 2008: 2}
+recent years: {2005: 1, 2006: 1, 2010: 1, 2009: 2, 2014: 2}
+very large scale integration design: {2005: 1, 2007: 1, 2008: 1, 2010: 1, 2009: 1, 2012: 1, 2014: 1}
+bloom filters: {2005: 1, 2006: 2, 2012: 1, 2014: 3}
+mobile networks: {2010: 1, 2009: 1, 2012: 2, 2014: 2, 2016: 1}
+wireless access networks: {2010: 1, 2009: 1, 2012: 2, 2014: 2, 2016: 1}
+mobile devices: {2009: 2, 2012: 1, 2014: 4}
+bloom filter: {2009: 2, 2014: 4, 2016: 1}
+clos networks: {2006: 5, 2012: 1}
+novel approach: {2010: 2, 2008: 1, 2009: 2, 2016: 1}
+prototype implementation: {2010: 2, 2005: 1, 2008: 1, 2012: 1, 2016: 1}
+line rate: {2005: 1, 2007: 1, 2008: 1, 2009: 2, 2012: 1}
+small amount: {2005: 1, 2006: 1, 2008: 1, 2009: 2, 2014: 1}
+network applications: {2006: 2, 2008: 1, 2010: 2, 2009: 1}
+multiple instruction: {2006: 1, 2008: 2, 2010: 2, 2009: 1}
+crosspoint buffers: {2006: 2, 2010: 2, 2012: 2}
+fast spreading worm: {2006: 6}
+virtual machines: {2010: 1, 2012: 1, 2016: 4}
+named data networking: {2012: 2, 2014: 2, 2016: 2}
+memory accesses: {2005: 2, 2007: 1, 2008: 1, 2009: 1}
+interconnection architectures: {2006: 1, 2010: 2, 2009: 2}
+software system structures: {2014: 2, 2005: 2, 2009: 1}
+theory of computation: {2005: 1, 2008: 2, 2009: 1, 2016: 1}
+100 % throughput: {2005: 1, 2006: 1, 2010: 3}
+network devices: {2005: 1, 2010: 1, 2009: 3}
+network device: {2005: 2, 2010: 2, 2016: 1}
+process management: {2005: 3, 2008: 1, 2009: 1}
+application specific processors: {2005: 1, 2008: 1, 2010: 1, 2009: 1, 2012: 1}
+application-specific vlsi designs: {2005: 1, 2008: 1, 2010: 1, 2009: 1, 2012: 1}
+intrusion detection systems: {2005: 2, 2006: 1, 2016: 2}
+design implementation: {2005: 1, 2007: 1, 2010: 1, 2012: 2}
+packet scheduling: {2005: 1, 2006: 1, 2007: 1, 2010: 1, 2016: 1}
+'s performance: {2006: 1, 2007: 1, 2009: 1, 2014: 1, 2016: 1}
+new approach: {2006: 1, 2010: 1, 2009: 1, 2012: 2}
+false positive rate: {2006: 2, 2014: 3}
+proposed architecture: {2006: 1, 2009: 1, 2012: 1, 2014: 1, 2016: 1}
+data path: {2007: 1, 2008: 1, 2010: 1, 2009: 2}
+regular expression matching: {2008: 1, 2010: 2, 2009: 1, 2014: 1}
+multi-core architectures: {2008: 2, 2010: 1, 2009: 1, 2014: 1}
+electronic design automation: {2008: 1, 2010: 1, 2012: 1, 2014: 1, 2016: 1}
+other architectures: {2009: 1, 2012: 1, 2014: 1, 2016: 2}
+control plane: {2012: 1, 2014: 2, 2016: 2}
+data plane: {2012: 2, 2014: 1, 2016: 2}
+software-defined networking: {2012: 1, 2014: 2, 2016: 2}
+data path algorithms: {2016: 5}
+network algorithms: {2016: 5}
+network systems: {2014: 1, 2005: 1, 2012: 2}
+good performance: {2014: 1, 2007: 1, 2012: 1, 2016: 1}
+design and analysis of algorithms: {2005: 1, 2008: 1, 2009: 1, 2016: 1}
+two step: {2005: 4}
+internet routers: {2005: 1, 2008: 1, 2009: 1, 2012: 1}
+hash tables: {2005: 1, 2009: 1, 2012: 1, 2014: 1}
+network processor: {2005: 2, 2006: 2}
+distributed architectures: {2005: 1, 2007: 1, 2010: 1, 2012: 1}
+on-chip memory: {2005: 1, 2006: 1, 2007: 1, 2009: 1}
+proposed scheme: {2006: 1, 2009: 1, 2012: 1, 2016: 1}
+memory usage: {2006: 3, 2007: 1}
+high speed: {2006: 1, 2007: 1, 2009: 2}
+memory requirements: {2006: 1, 2007: 1, 2010: 1, 2009: 1}
+computing methodologies: {2006: 1, 2007: 1, 2014: 2}
+software notations and tools: {2007: 1, 2008: 1, 2014: 1, 2016: 1}
+information systems: {2007: 1, 2008: 1, 2014: 2}
+low latency: {2007: 1, 2012: 3}
+network structure: {2007: 1, 2012: 1, 2014: 2}
+experiment results: {2007: 1, 2009: 1, 2014: 1, 2016: 1}
+performance evaluation: {2008: 1, 2009: 1, 2012: 2}
+wire speed: {2008: 2, 2009: 2}
+wide range: {2010: 1, 2009: 2, 2016: 1}
+better performance: {2010: 1, 2009: 1, 2012: 1, 2014: 1}
+previous work: {2010: 2, 2009: 1, 2016: 1}
+proposed approach: {2009: 1, 2014: 2, 2016: 1}
+lm architecture: {2009: 4}
+multiple flows: {2009: 4}
+content-centric networking: {2012: 4}
+cloud computing: {2014: 1, 2016: 3}
+packet processing applications: {2005: 1, 2016: 2}
+processing resources: {2010: 1, 2008: 1, 2014: 1}
+processor core: {2010: 2, 2014: 1}
+communications management: {2012: 1, 2007: 1, 2016: 1}
+multi-core processors: {2012: 2, 2009: 1}
+reconfigurable systems: {2014: 3}
+traffic conditions: {2014: 3}
+systems security: {2016: 2, 2006: 1}
+networking hardware: {2016: 2, 2014: 1}
+approximation algorithms analysis: {2005: 1, 2008: 1, 2009: 1}
+time complexity: {2005: 2, 2007: 1}
+operating system: {2005: 2, 2007: 1}
+traffic patterns: {2005: 1, 2010: 2}
+run-time adaptation: {2005: 2, 2006: 1}
+novel architecture: {2005: 1, 2006: 1, 2008: 1}
+hybrid firewall: {2005: 3}
+protocol processing: {2005: 1, 2012: 2}
+packet throughput: {2005: 1, 2007: 1, 2010: 1}
+overall performance: {2005: 1, 2006: 1, 2008: 1}
+total number: {2005: 1, 2009: 1, 2012: 1}
+20 %: {2005: 1, 2009: 1, 2016: 1}
+high performance: {2005: 1, 2014: 1, 2016: 1}
+fault tolerance: {2005: 1, 2016: 2}
+higher throughput: {2005: 1, 2006: 1, 2010: 1}
+existing techniques: {2005: 1, 2008: 1, 2016: 1}
+novel method: {2006: 1, 2010: 1, 2014: 1}
+memory requirement: {2006: 1, 2007: 1, 2014: 1}
+deterministic finite automata: {2006: 1, 2007: 2}
+10 %: {2006: 1, 2009: 1, 2012: 1}
+modeling and simulation: {2006: 1, 2014: 2}
+virtual machine: {2006: 2, 2016: 1}
+packet ordering: {2006: 1, 2007: 2}
+state information: {2006: 1, 2007: 1, 2010: 1}
+intrusion/anomaly detection and malware mitigation: {2006: 1, 2016: 2}
+network intrusion detection systems: {2007: 2, 2010: 1}
+new algorithm: {2007: 2, 2010: 1}
+70 %: {2007: 1, 2008: 1, 2012: 1}
+data management systems: {2007: 1, 2008: 1, 2014: 1}
+large switches: {2007: 2, 2012: 1}
+lid assignment: {2007: 3}
+network operators: {2007: 1, 2014: 2}
+incoming packets: {2007: 1, 2008: 1, 2012: 1}
+binary search: {2007: 1, 2009: 2}
+different types: {2007: 1, 2009: 1, 2012: 1}
+memory consumption: {2007: 1, 2012: 1, 2016: 1}
+finite automata: {2007: 3}
+wide area networks: {2008: 2, 2012: 1}
+network range: {2008: 2, 2012: 1}
+local area networks: {2008: 2, 2012: 1}
+netfpga platform: {2008: 1, 2010: 1, 2014: 1}
+network resources: {2008: 2, 2009: 1}
+50 %: {2008: 1, 2010: 1, 2012: 1}
+memory hierarchy: {2008: 2, 2009: 1}
+r <: {2008: 3}
+/sub >: {2008: 1, 2009: 2}
+proposed mechanism: {2008: 1, 2014: 2}
+driver domain: {2008: 3}
+high-level and register-transfer level synthesis: {2008: 1, 2012: 1, 2014: 1}
+bufferless crossbars: {2010: 3}
+pattern matching: {2010: 1, 2009: 1, 2016: 1}
+packet forwarding: {2010: 1, 2009: 1, 2012: 1}
+high-speed networks: {2010: 2, 2012: 1}
+best previously: {2010: 1, 2009: 2}
+data center: {2010: 2, 2012: 1}
+tcb cache: {2010: 3}
+load balancing: {2010: 1, 2012: 2}
+connection locality: {2009: 3}
+lookup tables: {2009: 2, 2016: 1}
+average hop count: {2009: 3}
+3d mesh: {2009: 3}
+range trie: {2009: 3}
+mobile device: {2009: 3}
+real traffic: {2009: 1, 2014: 2}
+software radio: {2009: 3}
+correct operation: {2009: 2, 2012: 1}
+traffic demands: {2012: 2, 2014: 1}
+data center networks: {2012: 2, 2014: 1}
+40\ %: {2012: 2, 2014: 1}
+spinal codes: {2012: 3}
+pattern languages: {2012: 3}
+network layer protocols: {2014: 1, 2016: 2}
+content names: {2014: 3}
+out-of-order packets: {2016: 3}
+network design principles: {2016: 3}
+multicore architectures: {2016: 3}
+software infrastructure: {2016: 3}
+programming interfaces: {2016: 3}
+network performance analysis: {2016: 3}

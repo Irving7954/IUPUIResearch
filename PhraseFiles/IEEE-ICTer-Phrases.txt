@@ -1,0 +1,760 @@
+759
+sri lanka: {2012: 14, 2010: 8, 2011: 5, 2013: 10, 2014: 26, 2015: 20, 2016: 18, 2017: 23}
+natural language processing: {2010: 1, 2011: 1, 2012: 4, 2013: 8, 2014: 12, 2015: 16, 2016: 16, 2017: 8}
+feature extraction: {2013: 14, 2011: 1, 2012: 5, 2014: 5, 2015: 5, 2016: 10, 2017: 14}
+data mining: {2011: 1, 2012: 5, 2013: 12, 2014: 3, 2016: 7, 2017: 5}
+educational institutions: {2010: 2, 2011: 2, 2012: 5, 2013: 18, 2014: 1, 2015: 2, 2016: 1}
+support vector machines: {2011: 1, 2012: 3, 2013: 10, 2014: 1, 2015: 2, 2016: 4, 2017: 7}
+learning (artificial intelligence): {2016: 7, 2012: 1, 2013: 5, 2014: 5, 2015: 3, 2017: 6}
+computer aided instruction: {2010: 2, 2011: 1, 2012: 5, 2013: 5, 2014: 5, 2015: 7, 2016: 1, 2017: 1}
+mobile computing: {2014: 6, 2011: 2, 2012: 1, 2013: 5, 2015: 6, 2016: 2, 2017: 4}
+machine learning: {2011: 1, 2012: 2, 2013: 6, 2014: 5, 2015: 3, 2016: 6, 2017: 3}
+information technology: {2010: 4, 2012: 2, 2013: 3, 2014: 4, 2015: 3, 2016: 3, 2017: 4}
+wireless sensor networks: {2011: 5, 2012: 4, 2013: 5, 2015: 3, 2016: 4, 2017: 2}
+mobile communication: {2011: 1, 2012: 3, 2013: 5, 2014: 4, 2015: 2, 2016: 5, 2017: 3}
+smart phones: {2012: 1, 2013: 4, 2014: 3, 2015: 5, 2016: 5, 2017: 4}
+sentiment analysis: {2012: 1, 2014: 2, 2015: 7, 2016: 11}
+human computer interaction: {2011: 5, 2012: 3, 2013: 6, 2014: 1, 2015: 4, 2017: 1}
+cloud computing: {2010: 3, 2011: 2, 2013: 4, 2014: 3, 2015: 3, 2016: 5}
+text analysis: {2010: 1, 2012: 1, 2013: 3, 2014: 4, 2015: 5, 2016: 4, 2017: 1}
+computational modeling: {2010: 2, 2011: 1, 2012: 3, 2013: 4, 2015: 4, 2016: 3, 2017: 1}
+sinhala language: {2011: 3, 2012: 1, 2013: 1, 2014: 4, 2015: 5, 2016: 4}
+image segmentation: {2011: 1, 2013: 5, 2015: 4, 2016: 2, 2017: 6}
+social networking (online): {2010: 1, 2012: 2, 2013: 1, 2014: 3, 2015: 6, 2016: 3, 2017: 1}
+summary form: {2014: 9, 2011: 7, 2013: 1}
+data models: {2017: 5, 2010: 1, 2012: 2, 2013: 4, 2014: 1, 2016: 4}
+mobile devices: {2011: 3, 2013: 3, 2014: 1, 2015: 1, 2016: 3, 2017: 6}
+# x201d: {2011: 1, 2012: 2, 2013: 2, 2014: 3, 2015: 4, 2016: 3, 2017: 2}
+decision making: {2011: 2, 2012: 2, 2013: 4, 2015: 3, 2016: 3, 2017: 2}
+image classification: {2013: 3, 2012: 1, 2014: 2, 2015: 3, 2016: 1, 2017: 6}
+artificial neural networks: {2013: 3, 2016: 5, 2011: 2, 2012: 1, 2015: 2, 2017: 3}
+real time: {2010: 1, 2012: 1, 2013: 2, 2014: 3, 2015: 4, 2016: 3, 2017: 2}
+algorithm design and analysis: {2012: 3, 2013: 1, 2014: 1, 2015: 1, 2016: 6, 2017: 4}
+image processing: {2010: 1, 2014: 3, 2015: 1, 2016: 3, 2017: 7}
+novel approach: {2012: 4, 2013: 3, 2014: 2, 2015: 4, 2016: 1, 2017: 1}
+business data processing: {2010: 4, 2012: 1, 2013: 1, 2014: 7, 2015: 1, 2017: 1}
+developing countries: {2010: 1, 2011: 1, 2012: 2, 2014: 9, 2015: 1, 2017: 1}
+proposed method: {2011: 2, 2013: 4, 2015: 1, 2016: 3, 2017: 5}
+real-time systems: {2012: 1, 2013: 2, 2014: 1, 2015: 2, 2016: 3, 2017: 6}
+mathematical model: {2013: 5, 2015: 1, 2016: 6, 2017: 3}
+big data: {2013: 1, 2014: 3, 2015: 6, 2016: 5}
+information retrieval: {2010: 1, 2011: 1, 2013: 4, 2014: 2, 2015: 1, 2016: 4, 2017: 1}
+computer vision: {2011: 3, 2013: 3, 2014: 2, 2016: 4, 2017: 2}
+ontologies (artificial intelligence): {2017: 3, 2011: 1, 2012: 2, 2013: 2, 2014: 3, 2015: 1, 2016: 1}
+virtual reality: {2010: 2, 2012: 4, 2013: 1, 2014: 2, 2016: 2, 2017: 2}
+web pages: {2010: 1, 2013: 2, 2017: 10}
+current committee members: {2011: 2, 2012: 3, 2013: 2, 2014: 2, 2016: 2, 2017: 2}
+conference proceedings: {2011: 1, 2012: 2, 2013: 2, 2014: 3, 2017: 5}
+proposed approach: {2012: 4, 2013: 2, 2014: 1, 2015: 1, 2016: 3, 2017: 2}
+object detection: {2012: 3, 2013: 1, 2014: 4, 2015: 1, 2016: 3, 2017: 1}
+pattern classification: {2012: 2, 2013: 4, 2014: 2, 2015: 3, 2016: 1, 2017: 1}
+data analysis: {2012: 1, 2013: 2, 2014: 6, 2015: 3, 2017: 1}
+predictive models: {2013: 5, 2015: 1, 2016: 3, 2017: 4}
+neural nets: {2013: 2, 2016: 1, 2014: 4, 2015: 2, 2017: 3}
+web services: {2012: 6, 2013: 2, 2015: 1, 2016: 3}
+traffic engineering computing: {2012: 2, 2014: 1, 2015: 3, 2016: 3, 2017: 3}
+health care: {2012: 1, 2013: 1, 2014: 3, 2015: 5, 2016: 2}
+clustering algorithms: {2013: 3, 2014: 4, 2016: 3, 2017: 2}
+multi-agent systems: {2011: 1, 2012: 4, 2013: 1, 2014: 2, 2015: 2, 2017: 1}
+artificial intelligence: {2011: 2, 2012: 3, 2014: 2, 2016: 2, 2017: 2}
+security of data: {2014: 4, 2011: 1, 2012: 1, 2015: 3, 2016: 1, 2017: 1}
+hidden markov models: {2010: 1, 2012: 1, 2013: 2, 2015: 4, 2016: 2, 2017: 1}
+information systems: {2010: 1, 2011: 1, 2012: 2, 2013: 1, 2014: 3, 2015: 2, 2017: 1}
+mobile handsets: {2011: 1, 2013: 2, 2014: 2, 2015: 1, 2016: 2, 2017: 3}
+semantic web: {2011: 4, 2013: 2, 2015: 5}
+large number: {2011: 1, 2012: 1, 2014: 3, 2015: 3, 2016: 3}
+regression analysis: {2012: 2, 2013: 2, 2015: 1, 2016: 1, 2017: 5}
+mobile learning: {2013: 1, 2014: 3, 2015: 4, 2016: 3}
+smart phone: {2015: 8, 2017: 3}
+classification algorithms: {2013: 3, 2012: 1, 2016: 3, 2017: 3}
+handicapped aids: {2016: 2, 2011: 2, 2012: 2, 2013: 1, 2015: 1, 2017: 2}
+computer architecture: {2010: 2, 2011: 1, 2012: 2, 2013: 1, 2015: 1, 2016: 2, 2017: 1}
+power consumption: {2011: 4, 2014: 2, 2015: 2, 2017: 2}
+speech recognition: {2011: 1, 2012: 3, 2013: 5, 2014: 1}
+brief professional biography: {2011: 1, 2012: 2, 2013: 1, 2014: 2, 2016: 1, 2017: 3}
+proposed solution: {2012: 2, 2013: 1, 2014: 1, 2016: 2, 2017: 4}
+proposed system: {2012: 2, 2015: 2, 2016: 2, 2017: 4}
+object recognition: {2012: 2, 2015: 2, 2016: 4, 2017: 2}
+analytical models: {2012: 1, 2013: 2, 2014: 2, 2015: 1, 2016: 3, 2017: 1}
+medical image processing: {2013: 2, 2014: 1, 2015: 1, 2016: 2, 2017: 4}
+software quality: {2013: 2, 2016: 1, 2017: 7}
+face recognition: {2012: 1, 2013: 3, 2011: 2, 2014: 1, 2015: 1, 2016: 1}
+performance evaluation: {2016: 2, 2012: 3, 2013: 1, 2015: 3}
+project management: {2010: 2, 2014: 3, 2015: 1, 2017: 3}
+rural areas: {2010: 5, 2012: 2, 2014: 2}
+electronic mail: {2010: 1, 2014: 2, 2015: 1, 2016: 5}
+learning process: {2010: 1, 2012: 2, 2013: 2, 2014: 1, 2015: 3}
+virtual world: {2010: 3, 2012: 6}
+society officers: {2011: 1, 2013: 2, 2014: 2, 2016: 2, 2017: 2}
+data handling: {2012: 2, 2013: 2, 2014: 2, 2016: 3}
+computer graphics: {2013: 6, 2016: 3}
+business intelligence: {2014: 3, 2015: 2, 2017: 4}
+digital simulation: {2010: 1, 2012: 2, 2013: 1, 2014: 1, 2015: 2, 2016: 1}
+world wide web: {2010: 2, 2012: 3, 2013: 3}
+web sites: {2010: 2, 2012: 2, 2013: 1, 2015: 1, 2016: 2}
+emerging regions: {2011: 1, 2012: 2, 2013: 1, 2014: 1, 2015: 1, 2016: 2}
+query processing: {2011: 3, 2014: 1, 2015: 1, 2016: 2, 2017: 1}
+artificial neural network: {2011: 1, 2014: 3, 2017: 4}
+visually impaired: {2011: 3, 2012: 1, 2016: 1, 2017: 3}
+user interfaces: {2011: 1, 2012: 2, 2013: 3, 2016: 2}
+pattern clustering: {2011: 1, 2013: 2, 2014: 1, 2015: 1, 2016: 1, 2017: 2}
+hidden markov model: {2012: 2, 2013: 3, 2015: 2, 2016: 1}
+data visualisation: {2012: 1, 2014: 1, 2015: 2, 2016: 2, 2017: 2}
+decision support systems: {2012: 2, 2013: 1, 2014: 2, 2015: 1, 2016: 2}
+experimental results: {2013: 2, 2014: 2, 2015: 2, 2016: 1, 2017: 1}
+proposed model: {2014: 2, 2016: 1, 2017: 5}
+genetic algorithms: {2014: 1, 2015: 3, 2016: 4}
+mobile ad-hoc networks: {2014: 2, 2015: 1, 2016: 2, 2017: 3}
+image color analysis: {2013: 2, 2011: 1, 2016: 1, 2017: 3}
+handwritten character recognition: {2015: 2, 2011: 1, 2017: 4}
+information security: {2010: 2, 2013: 2, 2014: 2, 2015: 1}
+distance learning: {2010: 2, 2013: 2, 2015: 2, 2017: 1}
+electronic learning: {2010: 1, 2013: 4, 2014: 1, 2017: 1}
+emotion recognition: {2011: 2, 2012: 1, 2013: 3, 2016: 1}
+image recognition: {2011: 1, 2015: 4, 2017: 2}
+statistical analysis: {2011: 1, 2012: 1, 2013: 1, 2015: 2, 2016: 2}
+global positioning system: {2011: 1, 2012: 1, 2014: 2, 2015: 1, 2017: 2}
+mobile phones: {2011: 1, 2014: 2, 2015: 1, 2017: 3}
+rendering (computer graphics): {2012: 1, 2013: 2, 2015: 1, 2016: 3}
+video signal processing: {2012: 2, 2013: 4, 2015: 1}
+sensor fusion: {2012: 2, 2013: 2, 2017: 3}
+feature vector: {2012: 1, 2014: 3, 2015: 2, 2016: 1}
+geographic information systems: {2012: 2, 2013: 4, 2015: 1}
+medical information systems: {2013: 1, 2014: 2, 2015: 4}
+internet users: {2013: 7}
+service quality: {2013: 7}
+recommender systems: {2013: 3, 2016: 3, 2017: 1}
+text mining: {2013: 1, 2016: 6}
+principal component analysis: {2013: 1, 2014: 1, 2015: 1, 2017: 4}
+sensor data: {2013: 3, 2015: 2, 2017: 2}
+medical computing: {2013: 1, 2014: 2, 2015: 1, 2016: 2, 2017: 1}
+historical data: {2013: 2, 2015: 2, 2017: 3}
+internet of things: {2013: 1, 2014: 2, 2015: 3, 2016: 1}
+genetic algorithm: {2015: 3, 2016: 4}
+road safety: {2017: 7}
+visual information: {2010: 2, 2012: 4}
+recent years: {2010: 1, 2012: 2, 2013: 1, 2015: 1, 2017: 1}
+solid modeling: {2012: 3, 2010: 1, 2013: 1, 2017: 1}
+training data: {2013: 3, 2016: 2, 2017: 1}
+mobile applications: {2014: 1, 2011: 1, 2017: 4}
+assistive technology: {2016: 1, 2012: 1, 2017: 4}
+agile project management: {2010: 6}
+computer games: {2010: 2, 2012: 3, 2017: 1}
+wireless communication: {2010: 1, 2012: 1, 2013: 1, 2014: 1, 2015: 1, 2017: 1}
+language translation: {2010: 1, 2011: 1, 2012: 1, 2013: 1, 2014: 1, 2015: 1}
+information and communication technology: {2010: 1, 2014: 2, 2015: 1, 2016: 1, 2017: 1}
+computer science: {2010: 1, 2012: 2, 2013: 2, 2016: 1}
+sensor nodes: {2011: 3, 2016: 3}
+proposed methodology: {2011: 1, 2014: 2, 2015: 1, 2016: 1, 2017: 1}
+support vector machine: {2011: 1, 2012: 1, 2013: 1, 2017: 3}
+educational courses: {2011: 1, 2013: 1, 2014: 2, 2015: 1, 2017: 1}
+wireless networks: {2011: 1, 2014: 3, 2016: 2}
+complete presentations: {2011: 1, 2012: 2, 2014: 1, 2017: 2}
+knowledge based systems: {2012: 1, 2013: 2, 2014: 1, 2016: 2}
+software engineering: {2012: 1, 2013: 1, 2014: 2, 2016: 2}
+document handling: {2012: 2, 2013: 1, 2015: 1, 2016: 1, 2017: 1}
+collaborative learning: {2012: 2, 2014: 4}
+unified modeling language: {2012: 2, 2015: 1, 2016: 3}
+adaptation models: {2012: 1, 2013: 1, 2014: 1, 2015: 2, 2017: 1}
+sentiment classification: {2012: 1, 2013: 1, 2014: 2, 2015: 2}
+social networks: {2012: 1, 2014: 4, 2016: 1}
+introductory welcome message: {2013: 2, 2014: 2, 2017: 2}
+challenging task: {2013: 1, 2014: 2, 2015: 2, 2016: 1}
+research work: {2013: 2, 2014: 1, 2015: 1, 2016: 2}
+online learning: {2013: 3, 2014: 2, 2015: 1}
+pos tagger: {2013: 1, 2014: 2, 2016: 3}
+information extraction: {2013: 1, 2014: 2, 2016: 2, 2017: 1}
+twitter messages: {2013: 2, 2015: 3, 2016: 1}
+rapid application development: {2013: 3, 2014: 3}
+contextual information: {2014: 2, 2017: 4}
+communication networks: {2014: 6}
+optical character recognition: {2015: 5, 2017: 1}
+digital images: {2010: 3, 2013: 1, 2016: 1}
+sri lankan: {2012: 1, 2010: 1, 2013: 1, 2014: 1, 2017: 1}
+image texture: {2013: 2, 2011: 1, 2012: 1, 2017: 1}
+gesture recognition: {2016: 1, 2011: 2, 2013: 1, 2015: 1}
+natural language: {2016: 2, 2012: 1, 2015: 1, 2017: 1}
+government data processing: {2010: 2, 2012: 1, 2015: 2}
+communication technology: {2010: 1, 2012: 1, 2013: 1, 2015: 2}
+resource allocation: {2010: 2, 2014: 1, 2015: 1, 2016: 1}
+sri lankan context: {2010: 1, 2012: 1, 2013: 1, 2016: 2}
+routing protocols: {2010: 2, 2014: 2, 2016: 1}
+statistical machine translation: {2010: 1, 2013: 3, 2015: 1}
+information management: {2010: 1, 2013: 1, 2014: 3}
+complex event processing: {2010: 1, 2014: 1, 2015: 1, 2016: 2}
+wireless sensor network: {2011: 2, 2012: 1, 2015: 1, 2017: 1}
+data acquisition: {2011: 1, 2015: 2, 2017: 2}
+software maintenance: {2011: 1, 2013: 2, 2014: 2}
+knowledge management: {2011: 1, 2012: 1, 2013: 1, 2014: 1, 2017: 1}
+software testing: {2011: 1, 2017: 4}
+test cases: {2011: 4, 2014: 1}
+disk images: {2011: 5}
+considerable amount: {2012: 2, 2014: 1, 2016: 1, 2017: 1}
+optical flow: {2012: 3, 2017: 2}
+smart mobile device: {2012: 1, 2013: 3, 2015: 1}
+computer science education: {2012: 1, 2013: 1, 2014: 3}
+further education: {2012: 1, 2013: 2, 2014: 2}
+neural network: {2012: 1, 2013: 2, 2015: 2}
+ontology alignment: {2012: 5}
+user preferences: {2012: 1, 2017: 4}
+sustainable development: {2012: 1, 2013: 1, 2015: 3}
+road traffic: {2012: 1, 2015: 2, 2017: 2}
+keynote presentations: {2013: 1, 2014: 1, 2016: 1, 2017: 2}
+diabetic retinopathy: {2013: 2, 2016: 3}
+dp industry: {2013: 1, 2014: 1, 2015: 1, 2016: 1, 2017: 1}
+quality of service: {2013: 1, 2014: 1, 2015: 1, 2016: 2}
+financial data processing: {2013: 1, 2014: 1, 2015: 1, 2017: 2}
+unsupervised learning: {2013: 2, 2015: 3}
+part of speech tagging: {2013: 1, 2014: 1, 2015: 2, 2016: 1}
+machine learning algorithms: {2013: 1, 2014: 1, 2015: 1, 2016: 2}
+natural language processing techniques: {2013: 2, 2014: 1, 2015: 2}
+ant colony optimization: {2013: 2, 2014: 2, 2016: 1}
+data structures: {2013: 1, 2014: 1, 2015: 1, 2016: 1, 2017: 1}
+augmented reality: {2013: 1, 2015: 1, 2017: 3}
+text classification: {2013: 4, 2015: 1}
+service-oriented architecture: {2013: 1, 2014: 1, 2016: 3}
+human factors: {2013: 1, 2016: 4}
+driver information systems: {2013: 1, 2015: 1, 2017: 3}
+software development management: {2014: 2, 2015: 1, 2017: 2}
+user experience: {2014: 2, 2015: 1, 2016: 2}
+android (operating system): {2014: 1, 2015: 2, 2016: 2}
+mobile application: {2014: 3, 2015: 2}
+user context: {2014: 1, 2015: 1, 2016: 1, 2017: 2}
+tamil language: {2014: 5}
+regular expressions: {2014: 3, 2017: 2}
+morphological analysis: {2014: 5}
+opportunistic networks: {2014: 5}
+# x201c: {2014: 1, 2015: 2, 2016: 1, 2017: 1}
+prediction algorithms: {2014: 1, 2016: 2, 2017: 2}
+modus operandi: {2014: 3, 2015: 2}
+social life network: {2014: 5}
+quality education: {2014: 3, 2015: 2}
+spectral clustering: {2015: 3, 2017: 2}
+android platform: {2015: 5}
+consumer health informatics: {2015: 5}
+twitter model: {2016: 2, 2017: 3}
+blood vessels: {2016: 4, 2017: 1}
+week effect: {2016: 5}
+master data management: {2017: 5}
+test type execution: {2017: 5}
+copyrighted music: {2017: 5}
+word embeddings: {2017: 5}
+intelligent systems: {2011: 2, 2013: 2}
+multi agent systems: {2011: 1, 2012: 3}
+general public: {2012: 2, 2014: 1, 2015: 1}
+3d model: {2012: 4}
+handwriting recognition: {2015: 1, 2011: 1, 2017: 2}
+spatial data: {2016: 2, 2014: 2}
+supervised learning: {2016: 2, 2013: 2}
+natural languages: {2016: 1, 2010: 1, 2012: 1, 2013: 1}
+biology computing: {2017: 1, 2013: 1, 2016: 2}
+organisational aspects: {2010: 1, 2012: 1, 2014: 1, 2015: 1}
+biological system modeling: {2010: 1, 2015: 1, 2017: 2}
+computer based training: {2010: 2, 2014: 2}
+behavioural sciences computing: {2010: 1, 2011: 1, 2013: 1, 2015: 1}
+real world: {2010: 2, 2012: 2}
+new technologies: {2010: 1, 2014: 2, 2016: 1}
+language model: {2010: 2, 2012: 2}
+search engines: {2010: 4}
+small-to-medium enterprises: {2010: 1, 2011: 1, 2014: 2}
+travel industry: {2010: 1, 2013: 1, 2015: 1, 2017: 1}
+etransformation journey: {2010: 4}
+research community: {2010: 1, 2015: 3}
+virtual worlds: {2010: 4}
+business processes: {2010: 2, 2014: 2}
+distributed systems: {2010: 1, 2011: 1, 2014: 2}
+relational databases: {2011: 2, 2013: 1, 2016: 1}
+ip networks: {2011: 1, 2013: 1, 2014: 2}
+computational model: {2011: 2, 2013: 2}
+facial expression recognition: {2011: 1, 2013: 3}
+optical imaging: {2011: 1, 2012: 1, 2013: 1, 2015: 1}
+important role: {2011: 1, 2013: 1, 2014: 1, 2017: 1}
+prototype system: {2011: 2, 2012: 2}
+statistical methods: {2011: 2, 2013: 2}
+interactive systems: {2011: 1, 2013: 1, 2014: 1, 2015: 1}
+mobile phone: {2011: 2, 2013: 1, 2016: 1}
+socio-economic effects: {2011: 1, 2012: 1, 2013: 1, 2017: 1}
+image edge detection: {2011: 1, 2016: 2, 2017: 1}
+image enhancement: {2011: 1, 2015: 1, 2017: 2}
+character recognition: {2011: 1, 2015: 1, 2017: 2}
+data collection: {2011: 1, 2016: 1, 2017: 2}
+hosting environment: {2011: 4}
+main goal: {2011: 1, 2014: 2, 2016: 1}
+acoustic model: {2012: 3, 2015: 1}
+speech recognizer: {2012: 2, 2015: 2}
+major issues: {2012: 1, 2014: 1, 2015: 1, 2017: 1}
+sinhala characters: {2012: 1, 2017: 3}
+main objective: {2012: 1, 2016: 2, 2017: 1}
+video streaming: {2012: 1, 2013: 1, 2016: 2}
+virtual environment: {2012: 1, 2013: 2, 2014: 1}
+ongoing research: {2012: 1, 2015: 2, 2017: 1}
+computational complexity: {2012: 2, 2016: 1, 2017: 1}
+analogy making: {2012: 4}
+classroom environment: {2012: 4}
+curriculum design: {2012: 2, 2014: 2}
+regression model: {2012: 2, 2016: 2}
+learner satisfaction: {2012: 4}
+ambient assistance: {2012: 2, 2015: 2}
+pattern recognition: {2012: 1, 2015: 2, 2017: 1}
+weather forecasting: {2012: 2, 2015: 2}
+resource description framework: {2012: 1, 2013: 2, 2015: 1}
+knowledge base: {2012: 1, 2014: 3}
+graphics processing units: {2012: 2, 2016: 2}
+exponential growth: {2012: 2, 2017: 2}
+affective domain: {2012: 4}
+proposed algorithm: {2013: 1, 2014: 1, 2016: 1, 2017: 1}
+ocean water: {2013: 3, 2016: 1}
+research objectives: {2013: 1, 2015: 1, 2017: 2}
+web browsers: {2013: 4}
+evolutionary computation: {2013: 2, 2014: 2}
+evolutionary algorithms: {2013: 2, 2014: 2}
+human resource management: {2013: 1, 2015: 1, 2016: 1, 2017: 1}
+document repositories: {2013: 4}
+financial documents: {2013: 1, 2017: 3}
+load forecasting: {2013: 2, 2017: 2}
+tri-gram probabilities: {2013: 4}
+lexical items: {2013: 3, 2017: 1}
+overall accuracy: {2013: 2, 2016: 1, 2017: 1}
+automatic speech recognition: {2013: 3, 2015: 1}
+active learning: {2013: 2, 2015: 2}
+principle component analysis: {2013: 2, 2014: 2}
+concept map: {2013: 4}
+knowledge acquisition: {2013: 3, 2014: 1}
+data privacy: {2013: 3, 2015: 1}
+meta data: {2013: 1, 2017: 3}
+case study: {2013: 1, 2014: 1, 2015: 1, 2017: 1}
+spatial data mining: {2013: 4}
+main purpose: {2013: 1, 2014: 1, 2017: 2}
+biomedical monitoring: {2013: 2, 2015: 1, 2016: 1}
+affective computing: {2013: 4}
+processing power: {2013: 1, 2015: 2, 2016: 1}
+online learning environment: {2013: 3, 2014: 1}
+multiple regression analysis: {2013: 2, 2015: 1, 2017: 1}
+pleasant interface: {2013: 4}
+neural networks: {2013: 1, 2015: 3}
+technological innovation: {2013: 1, 2014: 1, 2017: 2}
+rich internet application engineering: {2013: 3, 2014: 1}
+major role: {2013: 1, 2014: 1, 2015: 1, 2016: 1}
+video stream: {2013: 1, 2014: 2, 2017: 1}
+road accidents: {2013: 3, 2017: 1}
+reaction time: {2013: 2, 2014: 2}
+police data processing: {2013: 1, 2014: 1, 2015: 2}
+conference officers: {2014: 2, 2017: 2}
+' congratulations: {2014: 2, 2017: 2}
+conference event publication: {2014: 2, 2017: 2}
+proceedings record: {2014: 2, 2017: 2}
+health information systems: {2014: 2, 2015: 2}
+smart cities: {2014: 2, 2016: 2}
+different approaches: {2014: 2, 2015: 1, 2017: 1}
+ais data: {2014: 4}
+formative assessment: {2014: 2, 2015: 2}
+best practices: {2014: 4}
+android smartphone users: {2014: 2, 2016: 2}
+user interface: {2014: 1, 2015: 2, 2017: 1}
+ant colony optimisation: {2014: 4}
+mobile wallet: {2014: 4}
+bi systems: {2014: 4}
+software companies: {2014: 2, 2017: 2}
+waiting time: {2014: 1, 2015: 2, 2016: 1}
+agricultural information: {2014: 3, 2017: 1}
+economic development: {2014: 4}
+business models: {2014: 1, 2015: 3}
+sentence similarity: {2014: 4}
+sentence pairs: {2014: 4}
+mobile ad hoc networks: {2014: 1, 2015: 1, 2017: 2}
+nasal height: {2014: 4}
+public domain software: {2014: 1, 2015: 1, 2016: 1, 2017: 1}
+road traffic accidents: {2014: 2, 2017: 2}
+data communication: {2014: 1, 2016: 3}
+unknown words: {2014: 3, 2015: 1}
+novel method: {2015: 2, 2016: 1, 2017: 1}
+healthcare professionals: {2015: 4}
+biological systems: {2015: 4}
+software industry: {2015: 1, 2017: 3}
+training dataset: {2015: 2, 2017: 2}
+average accuracy: {2015: 1, 2016: 1, 2017: 2}
+publication venues: {2015: 4}
+student-centred learning: {2015: 4}
+blended environment: {2015: 4}
+smn trends: {2015: 4}
+collaborative online learning: {2015: 4}
+mathematics computing: {2015: 1, 2016: 2, 2017: 1}
+semantic analysis: {2016: 3, 2017: 1}
+missing data imputation: {2016: 4}
+document clustering: {2016: 2, 2017: 2}
+mobile device: {2016: 3, 2017: 1}
+context-aware reminder: {2016: 4}
+single classifier: {2016: 3, 2017: 1}
+exchange rates: {2016: 1, 2017: 3}
+gold price: {2016: 4}
+dsl approach: {2017: 4}
+stochastic models: {2017: 4}
+high quality software: {2017: 4}
+light emitting diodes: {2017: 4}
+residential voltage level fluctuations: {2017: 4}
+devops practice: {2017: 4}
+traffic signs: {2017: 4}
+steam generator: {2017: 4}
+digital multimedia: {2010: 1, 2012: 2}
+way people: {2010: 1, 2013: 2}
+facial images: {2013: 3}
+data security: {2014: 2, 2011: 1}
+important aspect: {2014: 2, 2015: 1}
+proposed technique: {2015: 1, 2012: 1, 2013: 1}
+impaired people: {2016: 1, 2012: 2}
+gene regulatory networks: {2017: 3}
+gene expression: {2017: 2, 2016: 1}
+leaf senescence: {2017: 3}
+women empowerment: {2010: 3}
+information and communication technologies: {2010: 1, 2014: 1, 2016: 1}
+electronic messaging: {2010: 1, 2013: 1, 2014: 1}
+major challenge: {2010: 1, 2013: 1, 2016: 1}
+prototype implementation: {2010: 1, 2013: 1, 2015: 1}
+communication channel: {2010: 1, 2017: 2}
+iso standards: {2010: 1, 2015: 1, 2017: 1}
+community people: {2010: 3}
+service providers: {2010: 1, 2011: 1, 2015: 1}
+high level: {2010: 1, 2015: 1, 2016: 1}
+future research: {2010: 2, 2015: 1}
+explorative behaviour: {2010: 3}
+last decades: {2010: 1, 2013: 1, 2015: 1}
+next generation: {2010: 1, 2014: 1, 2016: 1}
+asian region: {2010: 2, 2014: 1}
+e-learning content development: {2010: 3}
+e-learning content: {2010: 3}
+peer to peer computing: {2010: 1, 2011: 2}
+proposed routing protocol: {2010: 1, 2014: 2}
+machine translation: {2010: 1, 2011: 1, 2014: 1}
+statistical approach: {2010: 2, 2016: 1}
+myanmar language: {2010: 3}
+web documents: {2010: 1, 2011: 2}
+distributed processing: {2010: 1, 2011: 2}
+telecommunication computing: {2011: 2, 2015: 1}
+sensor node: {2011: 3}
+research area: {2011: 1, 2012: 1, 2013: 1}
+relational database: {2011: 1, 2016: 2}
+distributed concerns: {2011: 3}
+heterogeneous overlays: {2011: 3}
+english language: {2011: 1, 2013: 1, 2014: 1}
+context-free grammar: {2011: 3}
+significant amount: {2011: 2, 2013: 1}
+deaf community: {2011: 3}
+graphical user interfaces: {2011: 1, 2015: 1, 2017: 1}
+operating systems (computers): {2011: 2, 2015: 1}
+context awareness: {2011: 1, 2017: 2}
+mobile service portal: {2011: 3}
+behavioural archaeology: {2011: 3}
+acid properties: {2011: 3}
+ad hoc networks: {2011: 2, 2015: 1}
+web technologies: {2011: 1, 2017: 2}
+time consuming: {2011: 1, 2015: 1, 2017: 1}
+rapid growth: {2011: 1, 2013: 2}
+program testing: {2011: 1, 2014: 1, 2017: 1}
+electronic publishing: {2011: 1, 2012: 1, 2016: 1}
+qualitative method: {2011: 1, 2014: 2}
+crowdsourcing systems: {2011: 3}
+low cost: {2011: 1, 2017: 2}
+virtual machine: {2011: 1, 2015: 2}
+main focus: {2011: 1, 2014: 1, 2017: 1}
+less number: {2011: 1, 2014: 2}
+virtual machines: {2011: 1, 2015: 1, 2016: 1}
+surface waves: {2011: 1, 2013: 1, 2016: 1}
+multiprocessing systems: {2012: 2, 2016: 1}
+pronunciation dictionary: {2012: 3}
+voice dialling: {2012: 3}
+spell checker: {2012: 2, 2014: 1}
+video media: {2012: 3}
+image sequences: {2012: 2, 2017: 1}
+haptic interface technology: {2012: 3}
+two methods: {2012: 1, 2016: 1, 2017: 1}
+3d game environments: {2012: 3}
+narrow channels: {2012: 3}
+virtual environments: {2012: 2, 2014: 1}
+central location: {2012: 3}
+automatic identification system: {2012: 1, 2014: 2}
+real time information: {2012: 1, 2017: 2}
+different application domains: {2012: 3}
+practical applicability: {2012: 3}
+multiagent technology: {2012: 1, 2013: 1, 2017: 1}
+transport protocols: {2012: 1, 2013: 1, 2014: 1}
+visual impairment: {2012: 1, 2017: 2}
+idea bank: {2012: 3}
+open systems: {2012: 1, 2014: 1, 2015: 1}
+short messaging service: {2012: 2, 2013: 1}
+logic gates: {2012: 1, 2013: 2}
+mathematical concepts: {2012: 3}
+& # x201c: {2012: 1, 2014: 1, 2016: 1}
+benchmark domain ontology: {2012: 3}
+elective modules: {2012: 3}
+several areas: {2012: 1, 2013: 2}
+certain degree: {2012: 1, 2013: 2}
+tutor mentor development program: {2012: 3}
+language skills: {2012: 2, 2013: 1}
+special education: {2012: 3}
+fuzzy logic: {2012: 1, 2014: 2}
+learning experience: {2012: 1, 2013: 1, 2014: 1}
+rainfall forecasting: {2012: 3}
+radial basis function networks: {2012: 1, 2015: 1, 2017: 1}
+back propagation algorithm: {2012: 1, 2017: 2}
+opinion mining: {2012: 2, 2013: 1}
+agent communication: {2012: 2, 2014: 1}
+domain knowledge: {2012: 1, 2014: 2}
+human activity recognition: {2012: 3}
+many applications: {2012: 1, 2016: 1, 2017: 1}
+existing systems: {2012: 1, 2015: 1, 2017: 1}
+domain adaptation: {2012: 3}
+remote sensing: {2012: 1, 2013: 1, 2015: 1}
+existing methods: {2012: 1, 2015: 2}
+integrated optics: {2012: 1, 2013: 1, 2015: 1}
+vehicle detection: {2012: 1, 2015: 2}
+behavioral attitudes: {2012: 3}
+role playing game: {2012: 3}
+market research: {2013: 1, 2015: 1, 2017: 1}
+image motion analysis: {2013: 1, 2015: 1, 2017: 1}
+image colour analysis: {2013: 1, 2016: 1, 2017: 1}
+optic disc: {2013: 3}
+multifractal computation: {2013: 3}
+flow simulation: {2013: 1, 2014: 1, 2017: 1}
+rendering mechanism: {2013: 2, 2016: 1}
+spatial domain: {2013: 2, 2017: 1}
+ocean waves: {2013: 2, 2016: 1}
+computational fluid dynamics: {2013: 2, 2014: 1}
+geophysics computing: {2013: 2, 2016: 1}
+user perception: {2013: 3}
+maritime training simulators: {2013: 1, 2014: 2}
+face detection: {2013: 3}
+better performance: {2013: 1, 2016: 1, 2017: 1}
+time measurement: {2013: 1, 2015: 1, 2016: 1}
+resource utilization: {2013: 1, 2015: 2}
+software development: {2013: 1, 2017: 2}
+advertising data processing: {2013: 1, 2014: 1, 2016: 1}
+location based services: {2013: 1, 2014: 2}
+web application developers: {2013: 3}
+smartphone applications: {2013: 1, 2016: 2}
+smart mobile devices: {2013: 2, 2015: 1}
+extensive text message: {2013: 3}
+waste management: {2013: 3}
+knowledge-based decision support systems: {2013: 3}
+ict4d projects: {2013: 2, 2017: 1}
+distance education: {2013: 3}
+online questionnaire: {2013: 2, 2017: 1}
+wide variety: {2013: 1, 2014: 1, 2017: 1}
+'s programme: {2013: 3}
+course content: {2013: 3}
+lateral gene transfer: {2013: 3}
+supervised self-organizing map: {2013: 3}
+horizontal gene transfer: {2013: 3}
+stochastic processes: {2013: 1, 2016: 1, 2017: 1}
+linear interpolation: {2013: 3}
+viterbi algorithm: {2013: 2, 2016: 1}
+10 %: {2013: 2, 2015: 1}
+major problem: {2013: 2, 2014: 1}
+graph theory: {2013: 1, 2014: 1, 2016: 1}
+concepts relationships: {2013: 3}
+content sharing: {2013: 2, 2014: 1}
+peer-to-peer computing: {2013: 2, 2017: 1}
+swarm intelligence: {2013: 1, 2015: 2}
+particle swarm optimization: {2013: 1, 2015: 2}
+decision trees: {2013: 1, 2015: 2}
+application layer: {2013: 1, 2016: 2}
+indoor navigation: {2013: 1, 2015: 1, 2017: 1}
+transport layer protocols: {2013: 1, 2014: 2}
+vision impaired people: {2013: 2, 2014: 1}
+index indicators: {2013: 3}
+mean square error methods: {2013: 1, 2017: 2}
+heuristic algorithms: {2013: 1, 2014: 1, 2016: 1}
+cluster agents: {2013: 3}
+database federation: {2013: 3}
+storage management: {2013: 1, 2016: 2}
+key stroke variations: {2013: 3}
+research study: {2013: 3}
+sri lankan universities: {2013: 1, 2014: 2}
+learning management systems: {2013: 2, 2016: 1}
+online learner: {2013: 3}
+enterprise application integration: {2013: 2, 2014: 1}
+computational geoscience: {2013: 3}
+activity theory: {2013: 1, 2015: 2}
+rich internet applications: {2013: 1, 2014: 2}
+driver inattention: {2013: 3}
+computerised monitoring: {2013: 1, 2014: 1, 2015: 1}
+suspect identification: {2013: 1, 2015: 2}
+green products: {2013: 1, 2014: 1, 2015: 1}
+cyber-physical systems: {2014: 3}
+risk management: {2014: 1, 2015: 2}
+financial sector: {2014: 3}
+large scale data processing: {2014: 3}
+parallel processing: {2014: 1, 2015: 1, 2016: 1}
+stock markets: {2014: 2, 2016: 1}
+image filtering: {2014: 1, 2015: 1, 2017: 1}
+heart muscle: {2014: 3}
+neural network approach: {2014: 3}
+location estimation: {2014: 3}
+feature tracking: {2014: 3}
+student learning: {2014: 3}
+software visualization: {2014: 3}
+high-level cognitive courses: {2014: 3}
+educational administrative data processing: {2014: 1, 2015: 1, 2016: 1}
+mobile sms: {2014: 2, 2015: 1}
+software development process: {2014: 3}
+visualization tool: {2014: 1, 2015: 2}
+user centred design: {2014: 3}
+travelling salesman problem: {2014: 3}
+competitive intelligence: {2014: 1, 2015: 1, 2017: 1}
+work performance: {2014: 1, 2015: 2}
+business needs: {2014: 1, 2016: 2}
+value object: {2014: 3}
+value activity: {2014: 3}
+data transmission: {2014: 3}
+multiagent system: {2014: 3}
+ontology construction: {2014: 3}
+delphi method: {2014: 3}
+timely manner: {2014: 3}
+required information: {2014: 3}
+dar es salaam: {2014: 1, 2017: 2}
+large portion: {2014: 1, 2016: 2}
+sri lankan economy: {2014: 3}
+semantic similarity: {2014: 2, 2015: 1}
+syntactic similarity: {2014: 3}
+important factors: {2014: 1, 2016: 1, 2017: 1}
+maximum entropy model: {2014: 3}
+packet loss: {2014: 2, 2016: 1}
+named entity recognition: {2014: 3}
+addressee information: {2014: 3}
+dialog acts: {2014: 3}
+social aspects of automation: {2014: 2, 2016: 1}
+many researchers: {2014: 1, 2017: 2}
+image processing techniques: {2014: 2, 2015: 1}
+indigenous medicine: {2014: 3}
+medical system: {2014: 3}
+wave model: {2014: 1, 2016: 2}
+local government: {2014: 2, 2015: 1}
+farming community: {2014: 2, 2015: 1}
+pos tagging: {2014: 2, 2015: 1}
+evolutionary computing: {2014: 3}
+train traffic optimization: {2014: 2, 2016: 1}
+bd organization: {2015: 3}
+andes cpu: {2015: 3}
+wearable device market: {2015: 3}
+cardiac clinical procedures: {2015: 3}
+coronary cine-angiogram: {2015: 1, 2016: 2}
+coronary arteries: {2015: 1, 2017: 2}
+proposed segmentation method: {2015: 3}
+k-means algorithm: {2015: 2, 2017: 1}
+event classification: {2015: 3}
+anomaly detection: {2015: 1, 2017: 2}
+automated essay scoring: {2015: 3}
+vector space models: {2015: 3}
+domain specific corpus: {2015: 1, 2016: 2}
+machine readable format: {2015: 3}
+raw data: {2015: 1, 2016: 2}
+safs3 algorithm: {2015: 3}
+service provider: {2015: 2, 2017: 1}
+learning tool: {2015: 3}
+maximum likelihood classification: {2015: 3}
+land-use pattern: {2015: 3}
+optical character recognition software: {2015: 2, 2017: 1}
+discrete sinhala speech: {2015: 3}
+wireless mesh networks: {2015: 3}
+end-to-end delay: {2015: 3}
+wireless lan: {2015: 2, 2017: 1}
+firefly algorithm: {2015: 3}
+nonlinear equations: {2015: 3}
+hybrid decision tree: {2015: 3}
+security analysts: {2015: 3}
+sri lankan business environment: {2015: 3}
+social media: {2015: 1, 2016: 2}
+optimal traffic light cycles: {2015: 3}
+mobile users: {2015: 2, 2016: 1}
+wi-fi interface: {2015: 3}
+wi-fi usage: {2015: 3}
+mobile app: {2015: 3}
+real-time data: {2015: 1, 2017: 2}
+wireless sensors: {2015: 1, 2017: 2}
+audio signal processing: {2015: 1, 2017: 2}
+developing country: {2015: 1, 2017: 2}
+electronic money: {2015: 3}
+patient care: {2015: 1, 2016: 2}
+clinical decision-making capabilities: {2015: 3}
+organisational productivity: {2015: 3}
+critical factor: {2015: 1, 2017: 2}
+information accountability: {2015: 3}
+database management systems: {2015: 1, 2016: 2}
+indoor environment: {2015: 3}
+api functions: {2015: 3}
+health community: {2015: 3}
+software applications: {2015: 2, 2016: 1}
+big data analytics: {2015: 2, 2016: 1}
+data sources: {2015: 1, 2016: 2}
+fast-ica algorithm: {2016: 3}
+customer services: {2016: 2, 2017: 1}
+topic modeling: {2016: 3}
+email subject line analysis: {2016: 3}
+observational analysis: {2016: 3}
+descriptive analysis: {2016: 3}
+emotional analysis: {2016: 3}
+course personalization: {2016: 3}
+interactive content: {2016: 3}
+puttalam district: {2016: 3}
+cashew sector: {2016: 3}
+cashew estates: {2016: 3}
+ict adoption: {2016: 3}
+vessel path tracking: {2016: 3}
+interventional cardiology: {2016: 2, 2017: 1}
+luminal obstructions: {2016: 1, 2017: 2}
+set theory: {2016: 3}
+stochastic events: {2016: 3}
+stochastic delays: {2016: 3}
+match analysis: {2016: 3}
+mental stress: {2016: 3}
+working stress: {2016: 3}
+biomedical interactions: {2016: 3}
+drug-drug interactions: {2016: 1, 2017: 2}
+query execution: {2016: 3}
+mr application: {2016: 3}
+radio tomographic imaging: {2016: 3}
+quality metric: {2016: 3}
+software prototyping: {2016: 1, 2017: 2}
+eye fatigue: {2016: 3}
+sri lanka inter bank offer rate: {2016: 3}
+exchange rate returns: {2016: 1, 2017: 2}
+colombo stock exchange: {2016: 3}
+autoregressive processes: {2016: 1, 2017: 2}
+exchange rate: {2016: 1, 2017: 2}
+convolutional neural network: {2016: 1, 2017: 2}
+survival time: {2016: 3}
+automated corpus: {2017: 3}
+keyword extraction process: {2017: 3}
+ccp rules: {2017: 3}
+real-time analytics: {2017: 3}
+kidney function: {2017: 3}
+ann models: {2017: 3}
+svr models: {2017: 3}
+diagnostic visualization: {2017: 3}
+test types: {2017: 3}
+testing constraints: {2017: 3}
+application architecture type: {2017: 3}
+royalty payments: {2017: 3}
+mosquito breeding sites: {2017: 3}
+e-learning mode: {2017: 3}
+gbl approach: {2017: 3}
+hyperspectral imaging: {2017: 3}
+water bodies: {2017: 3}
+camera receiver: {2017: 3}
+vlc system: {2017: 3}
+symbol detection: {2017: 3}
+mixed reality: {2017: 3}
+technology adoption: {2017: 3}
+rural farmers: {2017: 3}
+paper documents: {2017: 3}
+data logging network: {2017: 3}
+data collection network: {2017: 3}
+heat transfer: {2017: 3}
+visual aspects: {2017: 3}
+malicious nodes: {2017: 3}
+ontology population: {2017: 3}
+multiple regression model: {2017: 3}
+ann model: {2017: 3}
+procedural language: {2017: 3}
+random forest classifier: {2017: 3}
+intelligent character recognition: {2017: 3}
+car park: {2017: 3}
