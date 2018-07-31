@@ -33,7 +33,7 @@ public class ResearchCrawler {
 	public ResearchCrawler(String fileName) throws Exception {
 		numRequests = 0; //init stuff
 		extraLinksVisited = 0;
-		outputPW = new PrintWriter(new File(fileName)); //initialize the new file
+		outputPW = new PrintWriter(new File(fileName)); //WATCH THE PATH
 	}
 	
 	//gets the text from the URL specified

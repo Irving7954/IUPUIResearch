@@ -19,8 +19,8 @@ class ResearchPaper:
 
 #reads the file and returns a list of papers
 def readFile(fileName):
-	try:
-		f = open("C:\\Users\\Luke\\eclipse\\workspace\\CS228\\TestingAndRandomClasses\\outputs\\" + fileName, encoding="utf-8") #replace the path
+	try: #WATCH THE PATH
+		f = open("path" + fileName, encoding="utf-8")
 		length = int(f.readline().strip())   #read the number of papers
 		paperList = [] 
 		while length > 0:

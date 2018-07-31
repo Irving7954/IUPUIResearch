@@ -2,7 +2,7 @@ IUPUI Research
 
 LUKE'S FILES:
 
-	In my files, the Java files are used for crawling, and the Python files are used 
+In my files, the Java files are used for crawling, and the Python files are used 
 for phrase extraction, graphing, and most other necessary operations.
 
 Crawling Instructions:
