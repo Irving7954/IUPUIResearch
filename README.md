@@ -81,3 +81,15 @@ and classifierChunker.py is used for extracting phrases from the abstracts.
 	
 The code should be commented well enough that you should be able to follow it 
 without more instruction. See the sample usage for examples of how to use the files.	
+
+bigram.py:
+The code extracts keyphrases with two words and three words, compute the support for each phrase, 
+then use bigram method or relational words method to find is-a relationship between phrases. 
+To run the program, simply change the strpath to the new location of the text file. 
+
+word2vec: 
+The code extracts abstracts from metadata, extracts bigram keyphrases. It then builds a word2vec model, 
+train the model based on user-defined parameters, and graph the clustered word vectors with annotations. 
+To run the program, change the strpath to the new location of the text file. To achieve the best graph, 
+some experiement with the model parameters is needed. 
+
