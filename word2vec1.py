@@ -20,24 +20,9 @@ from nltk.collocations import *
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 
-stopwords = stopwords.words('english')
-
-def findyear(string, c= 0):
-        startpos = string.find("None")
-        if startpos > -1:
-            #string = string[left_bracket+1:]
-            endpos = string.find("[")
-            if endpos > -1:
-                years.append(string[startpos+4:startpos+9])
-                #string.split('[', 1)[0].split(']')[1]
-                if string[:endpos].find("[") == -1:
-                    c += 1
-                string = string[endpos + 1:]
-            return findyear(string)
-        else:
-            return years
-        
-def findabstract(string, c= 0):
+stopwords = stopwords.words('english') ##load english stopwords list
+   
+def findabstract(string, c= 0): ##use recursion to extract abstracts from the data crawled
         startpos = string.find("None")
         #print("left index is" + str(startpos+4))
         if startpos > -1:
@@ -56,25 +41,24 @@ def findabstract(string, c= 0):
             return abstract
         
         
-sys.setrecursionlimit(2000)
-strPath = "C:\\Users\\simin\\Desktop\\IEEE-ASE.txt"
+sys.setrecursionlimit(2000) ##set the allowed recursion level higher than default
+strPath = "C:\\Users\\simin\\Desktop\\IEEE-ASE.txt" ##load the data
 f = open(strPath)
-strText = f.read()
+strText = f.read() ##read file
 abstract = []
-abstract = findabstract(strText)
-years = []
-years = findyear(strText)
+abstract = findabstract(strText) ##make a list of strings of abstracts
+
 
 
 import string
 for i in range(len(abstract)):
   exclude = set(string.punctuation)
-  abstract[i] = ''.join(ch for ch in abstract[i] if ch not in exclude)
-  abstract[i] = ''.join(ch for ch in abstract[i] if not ch.isdigit())
+  abstract[i] = ''.join(ch for ch in abstract[i] if ch not in exclude) ##get rid of punctuations in every abstract
+  abstract[i] = ''.join(ch for ch in abstract[i] if not ch.isdigit()) ##get rid of digits in every abstract
 
     
-stoplist = set('for a of the and to in both most other then each through while some where them if even many'.split())
-texts=[[word for word in abstract.lower().split() if word not in stoplist]for abstract in abstract]
+stoplist = set('for a of the and to in both most other then each through while some where them if even many'.split()) ##additional user-defined stopwords 
+texts=[[word for word in abstract.lower().split() if word not in stoplist]for abstract in abstract] ##iterate through to get rid of user-defined stopwords
 
 # remove words that appear only once
 from collections import defaultdict
@@ -83,13 +67,13 @@ for text in texts:
      for token in text:
          frequency[token] += 1
 texts2 = [[token for token in text if frequency[token] > 1]
-          for text in texts]
-dictionary = gensim.corpora.Dictionary(texts2)
-dictionary.save('C:\\Users\\simin\\desktop\\bigram.txt')
+          for text in texts] ##tokenize the abstracts
+dictionary = gensim.corpora.Dictionary(texts2) ##load gensim dictionary mapping words to IDs
+dictionary.save('C:\\Users\\simin\\desktop\\bigram.txt') ##save dictionary
 # store the dictionary, for future reference
-new_doc = "abstract bigram"
-new_vec = dictionary.doc2bow(new_doc.lower().split())
-corpus = [dictionary.doc2bow(text) for text in texts]
+new_doc = "abstract bigram" 
+new_vec = dictionary.doc2bow(new_doc.lower().split()) ## make everything into lower case
+corpus = [dictionary.doc2bow(text) for text in texts] ## change into bag-of-words format
 print("done corpus")
 
 import string
@@ -101,18 +85,18 @@ from nltk.collocations import *
 from nltk.tokenize import word_tokenize
 
 ###bigrams
-grammar = [[]]*len(texts2)
+grammar = [[]]*len(texts2) ##make empty list of lists
 for i in range(len(texts2)):
-  tmpstr = ' '.join(texts2[i])
-  translator = str.maketrans('', '', string.punctuation)
+  tmpstr = ' '.join(texts2[i]) ##join words to make longer strings
+  translator = str.maketrans('', '', string.punctuation) ##remove punctuation, join to space
   tmpstr = tmpstr.translate(translator)
   #print(tmpstr)
-  bgm = nltk.collocations.BigramAssocMeasures()
-  tgm = nltk.collocations.TrigramAssocMeasures()
+  bgm = nltk.collocations.BigramAssocMeasures() #use nltk bigram collocation
+  tgm = nltk.collocations.TrigramAssocMeasures() #use nltk trigram collocation
   finder = nltk.collocations.BigramCollocationFinder.from_words(word_tokenize(tmpstr))
   finder.apply_freq_filter(2) ## at least occured twice
-  scored = finder.score_ngrams(bgm.likelihood_ratio)
-  features = finder.nbest(bgm.likelihood_ratio, 100)
+  scored = finder.score_ngrams(bgm.likelihood_ratio) ## how likely are the two words occur together 
+  features = finder.nbest(bgm.likelihood_ratio, 100) ##use the top hundred most likely bigrams
   #print(features)
   for j in range(len(features)):
       tmp =nltk.pos_tag(features[j])
@@ -130,10 +114,18 @@ import plotly.plotly as py
 import plotly.graph_objs as go
 from sklearn.manifold import TSNE
 model = gensim.models.Word2Vec(grammar, size = 300, window = 50, min_count = 3000, workers = 5000)
+## use gensim word2vec method, start a new model
+##grammar is the phrase corpus
+##vector size for each phrase (dimension)
+##window of context
+##min_count: minimum count of occurence threshold for phrases
+##wokers: number of worker threads 
 model.train(grammar, total_examples = len(grammar), epochs = 500)
-
+## train the model with 500 iterations
 print("done model")
 def tsne_plot(model):
+## t-distributed stochastic neighboring entities
+## used for dimensionality reduction, for visualization of high-dimensional datasets
     "Creates and TSNE model and plots it"
     labels = []
     tokens = []
