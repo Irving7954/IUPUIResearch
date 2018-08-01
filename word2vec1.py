@@ -66,7 +66,7 @@ frequency = defaultdict(int)
 for text in texts:
      for token in text:
          frequency[token] += 1
-texts2 = [[token for token in text if frequency[token] > 1]
+texts2 = [[token for token in text if frequency[token] > 1]## filter out words that only occured once
           for text in texts] ##tokenize the abstracts
 dictionary = gensim.corpora.Dictionary(texts2) ##load gensim dictionary mapping words to IDs
 dictionary.save('C:\\Users\\simin\\desktop\\bigram.txt') ##save dictionary
